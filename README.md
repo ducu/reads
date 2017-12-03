@@ -1,2 +1,1 @@
-# reads
-Notes from my reads
+# Notes from my reads
