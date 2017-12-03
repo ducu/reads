@@ -1,1 +1,2 @@
-# Notes from my reads
+
+* [Bertrand Russell - History of Western Philosophy](../blob/master/bertrandrussellhisotyofwesternphilosophy.html)
