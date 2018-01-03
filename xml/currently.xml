@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/index.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+  <channel>
+    <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+    <title>Alexandru's bookshelf: currently-reading</title>
+    <copyright><![CDATA[Copyright (C) 2018 Goodreads Inc. All rights reserved.]]>
+    </copyright>
+    <link><![CDATA[https://www.goodreads.com/review/list_rss/7653898?key=jKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa&shelf=currently-reading]]></link>
+    <atom:link href="https://www.goodreads.com/review/list_rss/7653898?key=jKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa&amp;shelf=currently-reading" rel="self" type="application/rss+xml" />
+    <description><![CDATA[Alexandru's bookshelf: currently-reading]]></description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Jan 2018 01:36:35 -0800</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <title>Alexandru's bookshelf: currently-reading</title>
+      <link><![CDATA[https://www.goodreads.com/review/list_rss/7653898?key=jKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa&shelf=currently-reading]]></link>
+      <width>144</width>
+      <height>41</height>
+      <url>https://www.goodreads.com/images/layout/goodreads_logo_144.jpg</url>
+    </image>
+    
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/2238019943?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 02 Jan 2018 01:36:35 -0800]]></pubDate>
+    <title><![CDATA[Humanity: A Moral History of the Twentieth Century]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/2238019943?utm_medium=api&utm_source=rss]]></link>
+    <book_id>321263</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1348642660s/321263.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1348642660s/321263.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1348642660m/321263.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1348642660l/321263.jpg]]></book_large_image_url>
+    <book_description><![CDATA[One of the strongest works of moral philosophy of the last two decades, <em>Humanity</em> presents deeply felt and disturbing meditations on the 20th century's most brutal historical episodes. Jonathan Glover ambitiously attempts a moral psychology, tracing the patterns of human psychology that breed violence. Shrewd case studies examine the intellectual follies and moral horrors of the First World War's trench warfare, Hitler's Holocaust, the atomic bombing of Hiroshima, the ideologically driven social experimentation by Stalin, Mao, and Pol Pot, and the ethnic and tribal hatreds that tore apart the former Yugoslavia and Rwanda.]]></book_description>
+    <book id="321263">
+      <num_pages>476</num_pages>
+    </book>
+    <author_name>Jonathan Glover</author_name>
+    <isbn>0300087152</isbn>
+    <user_name>Alexandru</user_name>
+    <user_rating>0</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 02 Jan 2018 01:36:35 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 02 Jan 2018 01:36:24 -0800]]></user_date_created>
+    <user_shelves>currently-reading</user_shelves>
+    <user_review></user_review>
+    <average_rating>4.26</average_rating>
+    <book_published>1999</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/321263.Humanity?utm_medium=api&amp;utm_source=rss"><img alt="Humanity: A Moral History of the Twentieth Century" src="https://images.gr-assets.com/books/1348642660s/321263.jpg" /></a><br/>
+                                      author: Jonathan Glover<br/>
+                                      name: Alexandru<br/>
+                                      average rating: 4.26<br/>
+                                      book published: 1999<br/>
+                                      rating: 0<br/>
+                                      read at: <br/>
+                                      date added: 2018/01/02<br/>
+                                      shelves: currently-reading<br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/2230016310?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 02 Jan 2018 01:24:23 -0800]]></pubDate>
+    <title>Reasons and Persons</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/2230016310?utm_medium=api&utm_source=rss]]></link>
+    <book_id>327051</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1348967787s/327051.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1348967787s/327051.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1348967787m/327051.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1348967787l/327051.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Challenging, with several powerful arguments, some of our deepest beliefs about rationality, morality, and personal identity, Derek Parfit claims that we have a false view about our own nature. It is often rational to act against our own best interests, he argues, and most of us have moral views that are self-defeating. We often act wrongly, although we know there will be no one with serious grounds for complaint, and when we consider future generations it is very hard to avoid conclusions that most of us will find very disturbing.<br />]]></book_description>
+    <book id="327051">
+      <num_pages>543</num_pages>
+    </book>
+    <author_name>Derek Parfit</author_name>
+    <isbn>019824908X</isbn>
+    <user_name>Alexandru</user_name>
+    <user_rating>0</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Tue, 02 Jan 2018 01:24:23 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Thu, 28 Dec 2017 12:25:53 -0800]]></user_date_created>
+    <user_shelves>currently-reading</user_shelves>
+    <user_review></user_review>
+    <average_rating>4.23</average_rating>
+    <book_published>1984</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/327051.Reasons_and_Persons?utm_medium=api&amp;utm_source=rss"><img alt="Reasons and Persons" src="https://images.gr-assets.com/books/1348967787s/327051.jpg" /></a><br/>
+                                      author: Derek Parfit<br/>
+                                      name: Alexandru<br/>
+                                      average rating: 4.23<br/>
+                                      book published: 1984<br/>
+                                      rating: 0<br/>
+                                      read at: <br/>
+                                      date added: 2018/01/02<br/>
+                                      shelves: currently-reading<br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/2028596596?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Sun, 24 Dec 2017 09:47:25 -0800]]></pubDate>
+    <title><![CDATA[Tractatus Logico-Philosophicus]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/2028596596?utm_medium=api&utm_source=rss]]></link>
+    <book_id>19202845</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1386237616s/19202845.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1386237616s/19202845.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1386237616m/19202845.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1386237616l/19202845.jpg]]></book_large_image_url>
+    <book_description><![CDATA[„Adevărul gîndurilor comunicate aici mi se pare a fi intangibil şi definitiv. Sînt, aşadar, de părere că, în esenţă, am rezolvat problemele în mod definitiv. Şi, dacă nu mă înşel în această privinţă, atunci valoarea acestei lucrări constă în aceea că a arătat cît de puţin s-a realizat prin faptul că aceste probleme sînt rezolvate.<br />Scopul filozofiei este clarificarea logică a gîndurilor. <br />Filozofia nu este o doctrină, ci o activitate.<br />O operă filozofică constă în esenţă din clarificări.<br />Rezultatul filozofiei nu sînt «propoziţii filozofice», ci clarificarea propoziţiilor. <br />Pînă şi atunci cînd toate problemele ştiinţifice posibile primesc un răspuns, problemele noastre de viaţă încă nu sînt cîtuşi de puţin atinse. Desigur că în acest caz nu mai rămîne nici o întrebare; şi tocmai acesta este răspunsul.<br /><br />Îndoiala poate exista doar acolo unde există o întrebare; o întrebare, doar acolo unde există un răspuns; iar acesta, doar acolo unde se poate spune ceva.“ (Ludwig WITTGENSTEIN)]]></book_description>
+    <book id="19202845">
+      <num_pages>223</num_pages>
+    </book>
+    <author_name>Ludwig Wittgenstein</author_name>
+    <isbn></isbn>
+    <user_name>Alexandru</user_name>
+    <user_rating>0</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Sun, 24 Dec 2017 09:47:25 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 13 Jun 2017 14:03:58 -0700]]></user_date_created>
+    <user_shelves>currently-reading</user_shelves>
+    <user_review></user_review>
+    <average_rating>4.40</average_rating>
+    <book_published>1921</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/19202845-tractatus-logico-philosophicus?utm_medium=api&amp;utm_source=rss"><img alt="Tractatus Logico-Philosophicus" src="https://images.gr-assets.com/books/1386237616s/19202845.jpg" /></a><br/>
+                                      author: Ludwig Wittgenstein<br/>
+                                      name: Alexandru<br/>
+                                      average rating: 4.40<br/>
+                                      book published: 1921<br/>
+                                      rating: 0<br/>
+                                      read at: <br/>
+                                      date added: 2017/12/24<br/>
+                                      shelves: currently-reading<br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/2223800515?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Sun, 24 Dec 2017 00:26:17 -0800]]></pubDate>
+    <title>Animal Liberation</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/2223800515?utm_medium=api&utm_source=rss]]></link>
+    <book_id>25689973</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1442854283s/25689973.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1442854283s/25689973.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1442854283m/25689973.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1442854283l/25689973.jpg]]></book_large_image_url>
+    <book_description><![CDATA[<b>How should we treat non-human animals? </b>In this immensely powerful and influential book (now with a new introduction by <i>Sapiens </i>author Yuval Noah Harari), the renowned moral philosopher Peter Singer addresses this simple question with trenchant, dispassionate reasoning. Accompanied by the disturbing evidence of factory farms and laboratories, his answers triggered the birth of the animal rights movement.<br /><br /><b>'An extraordinary book which has had extraordinary effects... Widely known as the bible of the animal liberation movement' <i>Independent on Sunday</i></b><br /><br />In the decades since this landmark classic first appeared, some public attitudes to animals may have changed but our continued abuse of animals in factory farms and as tools for research shows that the underlying ideas Singer exposes as ethically indefensible are still dominating the way we treat animals. As Yuval Harari’s brilliantly argued introduction makes clear, this book is as relevant now as the day it was written.]]></book_description>
+    <book id="25689973">
+      <num_pages></num_pages>
+    </book>
+    <author_name>Peter Singer</author_name>
+    <isbn>1473524423</isbn>
+    <user_name>Alexandru</user_name>
+    <user_rating>0</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Sun, 24 Dec 2017 00:26:17 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Sun, 24 Dec 2017 00:25:32 -0800]]></user_date_created>
+    <user_shelves>currently-reading</user_shelves>
+    <user_review></user_review>
+    <average_rating>5.00</average_rating>
+    <book_published>1975</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/25689973-animal-liberation?utm_medium=api&amp;utm_source=rss"><img alt="Animal Liberation" src="https://images.gr-assets.com/books/1442854283s/25689973.jpg" /></a><br/>
+                                      author: Peter Singer<br/>
+                                      name: Alexandru<br/>
+                                      average rating: 5.00<br/>
+                                      book published: 1975<br/>
+                                      rating: 0<br/>
+                                      read at: <br/>
+                                      date added: 2017/12/24<br/>
+                                      shelves: currently-reading<br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+
+  </channel>
+</rss>
