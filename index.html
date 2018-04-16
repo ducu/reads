@@ -6,44 +6,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
 
     <title>Reads by @ducu</title>
     <script type="text/javascript">
-      var xslUrl = "templates/items.xsl";
-      var xmlUrlDict = {
+      var template = "templates/items.xsl";
+      var data = {
         // i: ["sectionId", "xmlURL"]
-        0: ["currently", "data/currently.xml"],
-        1: ["2016", "data/2016.xml"],
-        2: ["2017", "data/2017.xml"],
-        // 3: ["2018", "data/2018.xml"]
+        0: ["currently", "data/currently.xml", "Currently reading"],
+        1: ["2016", "data/2016.xml", "2016"],
+        2: ["2017", "data/2017.xml", "2017"],
+        3: ["2018", "data/2018.xml", "2018"] 
       }
     </script>
   </head>
   <body>
 
     <header class="header">
-      <nav id="nav" class="navbar navbar-default navbar-fixed-top">
-        <ul class="nav navbar-left">
+      <nav id="nav" class="navbar navbar-light">
+        <ul class="navbar-nav">
           <li id="item-currently" class="nav-item">
-            <a class="nav-link" href="#currently">Currently reading <span></span></a>
+            <a class="nav-link" href="#currently"></a>
           </li>
         </ul>
-        <div class="mug text-center">
-          <a href="/">
-            <img class="pic rounded-circle" src="https://avatars3.githubusercontent.com/u/104093?s=40&v=4" title="@ducu" />
+        <div class="navbar-nav">
+          <a href="/" class="navbar-brandx">
+            <img class="rounded-circle" src="https://avatars3.githubusercontent.com/u/104093?s=40&v=4" title="@ducu" />
           </a>
         </div>
-        <ul class="nav navbar-right">
+        <ul class="navbar-nav">
           <li id="item-2018" class="nav-item">
-            <a class="nav-link" href="#2018">2018 <span></span></a>
+            <a class="nav-link" href="#2018"></a>
           </li>
           <li id="item-2017" class="nav-item">
-            <a class="nav-link" href="#2017">2017 <span></span></a>
+            <a class="nav-link" href="#2017"></a>
           </li>
           <li id="item-2016" class="nav-item">
-            <a class="nav-link" href="#2016">2016 <span></span></a>
+            <a class="nav-link" href="#2016"></a>
           </li>
         </ul>
       </nav>
@@ -62,30 +62,31 @@
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <!-- <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script> -->
+    <!--<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
     <script type="text/javascript">
-      var xmlRequests = $.map(xmlUrlDict,
+      var xmlRequests = $.map(data,
         function(a, i) { return $.get(a[1]); });
 
       $.when.apply($, xmlRequests).done(function() {
         var xmlResponses = arguments;
-        $.get(xslUrl, function(xslDoc) {
+        $.get(template, function(xslDoc) {
           // All is ready now, so...
           var domParser = new DOMParser();
           var xslProcessor = new XSLTProcessor();
           xslProcessor.importStylesheet(xslDoc);
 
           for (var i = 0; i < xmlResponses.length; i++) {
-            var sectionId = xmlUrlDict[i][0];
+            var sectionId = data[i][0];
             var xmlDoc = xmlResponses[i][0];
             var fragment = xslProcessor.transformToFragment(xmlDoc, document);
             var count = fragment.firstChild.childElementCount;
-            $("#" + sectionId).append(fragment);
 
-            $("#item-" + sectionId + " span").text("(" + count + ")");
+            $("#" + sectionId).append(fragment);
+            $("#item-" + sectionId + " a").text(
+              data[i][2] + " " + "(" + count + ")");
           }
         });
       });
