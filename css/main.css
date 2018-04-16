@@ -1,3 +1,7 @@
+body {
+  position: relative;
+}
+
 /*
  * Header
  * --------------------------------------------------
@@ -13,6 +17,10 @@
  * Section
  * --------------------------------------------------
 */
+.sections {
+  position: relative;
+  /*overflow-y: scroll;*/
+}
 .section {
   padding-top: 100px;
   font-family: "Merriweather", Georgia, "Times New Roman", serif;

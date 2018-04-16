@@ -24,32 +24,40 @@
   <body>
 
     <header class="header">
-      <nav id="nav" class="navbar navbar-light">
-        <ul class="navbar-nav">
-          <li id="item-currently" class="nav-item">
-            <a class="nav-link" href="#currently"></a>
-          </li>
-        </ul>
-        <div class="navbar-nav">
-          <a href="/" class="navbar-brandx">
+      <nav id="nav" class="container-fluid">
+
+        <div id="navbar-mug" class="text-center">
+          <a href="/" class="nav-link">
             <img class="rounded-circle" src="https://avatars3.githubusercontent.com/u/104093?s=40&v=4" title="@ducu" />
           </a>
         </div>
-        <ul class="navbar-nav">
-          <li id="item-2018" class="nav-item">
-            <a class="nav-link" href="#2018"></a>
-          </li>
-          <li id="item-2017" class="nav-item">
-            <a class="nav-link" href="#2017"></a>
-          </li>
-          <li id="item-2016" class="nav-item">
-            <a class="nav-link" href="#2016"></a>
-          </li>
-        </ul>
+
+        <div id="navbar-reading" class="float-left">
+          <ul class="nav">
+            <li id="item-currently" class="nav-item">
+              <a class="nav-link" href="#currently">Currently reading</a>
+            </li>
+          </ul>
+        </div>
+
+        <div id="navbar-reads" class="float-right">
+          <ul class="nav">
+            <li id="item-2018" class="nav-item">
+              <a class="nav-link" href="#2018">2018</a>
+            </li>
+            <li id="item-2017" class="nav-item">
+              <a class="nav-link" href="#2017">2017</a>
+            </li>
+            <li id="item-2016" class="nav-item">
+              <a class="nav-link" href="#2016">2016</a>
+            </li>
+          </ul>
+        </div>
       </nav>
     </header>
 
-    <div data-spy="scroll" data-target="#nav" data-offset="0">
+    <div class="sections"
+      data-spy="scroll" data-target="#nav" data-offset="0">
       <div id="currently" class="section"></div>
       <div id="2018" class="section"></div>
       <div id="2017" class="section"></div>
