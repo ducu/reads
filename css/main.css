@@ -26,10 +26,31 @@ body {
 */
 .section {
   padding-top: 70px;
-  font-family: "Merriweather", Georgia, "Times New Roman", serif;
 }
-
 .items {
   list-style: none;
   -webkit-padding-start: 0;
+}
+/*
+ * Item
+ * --------------------------------------------------
+*/
+.item {
+  font-family: "Merriweather", Georgia, "Times New Roman", serif;
+}
+.item img {
+  float: right;
+  padding: 5px;
+}
+.item div {
+  margin-top: 15px;
+}
+.item p {
+  margin-bottom: 15px;
+}
+.item hr {
+  clear: right;
+}
+.about {
+  color: #6c757d;
 }
