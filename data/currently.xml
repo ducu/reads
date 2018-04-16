@@ -10,7 +10,7 @@
     <atom:link href="https://www.goodreads.com/review/list_rss/7653898?key=jKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa&amp;shelf=currently-reading" rel="self" type="application/rss+xml" />
     <description><![CDATA[Alexandru's bookshelf: currently-reading]]></description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Jan 2018 01:36:35 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Apr 2018 05:34:45 -0700</lastBuildDate>
     <ttl>60</ttl>
     <image>
       <title>Alexandru's bookshelf: currently-reading</title>
@@ -21,80 +21,184 @@
     </image>
     
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/2238019943?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Tue, 02 Jan 2018 01:36:35 -0800]]></pubDate>
-    <title><![CDATA[Humanity: A Moral History of the Twentieth Century]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/2238019943?utm_medium=api&utm_source=rss]]></link>
-    <book_id>321263</book_id>
-    <book_image_url><![CDATA[https://images.gr-assets.com/books/1348642660s/321263.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1348642660s/321263.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1348642660m/321263.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1348642660l/321263.jpg]]></book_large_image_url>
-    <book_description><![CDATA[One of the strongest works of moral philosophy of the last two decades, <em>Humanity</em> presents deeply felt and disturbing meditations on the 20th century's most brutal historical episodes. Jonathan Glover ambitiously attempts a moral psychology, tracing the patterns of human psychology that breed violence. Shrewd case studies examine the intellectual follies and moral horrors of the First World War's trench warfare, Hitler's Holocaust, the atomic bombing of Hiroshima, the ideologically driven social experimentation by Stalin, Mao, and Pol Pot, and the ethnic and tribal hatreds that tore apart the former Yugoslavia and Rwanda.]]></book_description>
-    <book id="321263">
-      <num_pages>476</num_pages>
+    <guid><![CDATA[https://www.goodreads.com/review/show/2357854961?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Wed, 11 Apr 2018 05:34:45 -0700]]></pubDate>
+    <title>What Is Man?</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/2357854961?utm_medium=api&utm_source=rss]]></link>
+    <book_id>1597036</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1347826876s/1597036.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1347826876s/1597036.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1347826876m/1597036.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1347826876l/1597036.jpg]]></book_large_image_url>
+    <book_description><![CDATA[This was Twain's most serious, philosophical and private book. He kept it locked in his desk, considered it to be his Bible, and spoke of it as such to friends when he read them passages. He had written it, rewritten it, was finally satisfied with it, but still chose not to release it until after his death. It appears in the form of a dialogue between an old man and a young man who discuss who and what mankind really is and provides a new and different way of looking at who we are and the way we live. Anyone who thinks Twain was not a brilliant philosopher should read this book. We consider ourselves as free and autonomous people, yet this book puts forth the ideas that 1) We are nothing more than machines and originate nothing - not even a single thought; 2) All conduct arises from one motive - self-satisfaction; 3) Our temperament is completely permanent and unchangeable; and 4) Man is of course a product of heredity, and our future, being fixed, is irrevocable -- which makes life completely predetermined. If these points are true, then buying and reading this book is not in your control, but simply must be done because it was meant to be. If these points are not true you might still wish to make an independent decision to enjoy a thought-provoking book by a great and legendary writer.]]></book_description>
+    <book id="1597036">
+      <num_pages>116</num_pages>
     </book>
-    <author_name>Jonathan Glover</author_name>
-    <isbn>0300087152</isbn>
+    <author_name>Mark Twain</author_name>
+    <isbn>1585093009</isbn>
     <user_name>Alexandru</user_name>
     <user_rating>0</user_rating>
     <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Tue, 02 Jan 2018 01:36:35 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 02 Jan 2018 01:36:24 -0800]]></user_date_created>
+    <user_date_added><![CDATA[Wed, 11 Apr 2018 05:34:45 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Wed, 11 Apr 2018 05:34:30 -0700]]></user_date_created>
     <user_shelves>currently-reading</user_shelves>
     <user_review></user_review>
-    <average_rating>4.26</average_rating>
-    <book_published>1999</book_published>
+    <average_rating>4.12</average_rating>
+    <book_published>1905</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/321263.Humanity?utm_medium=api&amp;utm_source=rss"><img alt="Humanity: A Moral History of the Twentieth Century" src="https://images.gr-assets.com/books/1348642660s/321263.jpg" /></a><br/>
-                                      author: Jonathan Glover<br/>
+      <a href="https://www.goodreads.com/book/show/1597036.What_Is_Man_?utm_medium=api&amp;utm_source=rss"><img alt="What Is Man?" src="https://images.gr-assets.com/books/1347826876s/1597036.jpg" /></a><br/>
+                                      author: Mark Twain<br/>
                                       name: Alexandru<br/>
-                                      average rating: 4.26<br/>
-                                      book published: 1999<br/>
+                                      average rating: 4.12<br/>
+                                      book published: 1905<br/>
                                       rating: 0<br/>
                                       read at: <br/>
-                                      date added: 2018/01/02<br/>
+                                      date added: 2018/04/11<br/>
                                       shelves: currently-reading<br/>
                                       review: <br/><br/>
                                       ]]>
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/2230016310?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Tue, 02 Jan 2018 01:24:23 -0800]]></pubDate>
-    <title>Reasons and Persons</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/2230016310?utm_medium=api&utm_source=rss]]></link>
-    <book_id>327051</book_id>
-    <book_image_url><![CDATA[https://images.gr-assets.com/books/1348967787s/327051.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1348967787s/327051.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1348967787m/327051.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1348967787l/327051.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Challenging, with several powerful arguments, some of our deepest beliefs about rationality, morality, and personal identity, Derek Parfit claims that we have a false view about our own nature. It is often rational to act against our own best interests, he argues, and most of us have moral views that are self-defeating. We often act wrongly, although we know there will be no one with serious grounds for complaint, and when we consider future generations it is very hard to avoid conclusions that most of us will find very disturbing.<br />]]></book_description>
-    <book id="327051">
-      <num_pages>543</num_pages>
+    <guid><![CDATA[https://www.goodreads.com/review/show/1743047904?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Thu, 05 Apr 2018 12:42:33 -0700]]></pubDate>
+    <title>Critica ratiunii pure</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/1743047904?utm_medium=api&utm_source=rss]]></link>
+    <book_id>21492635</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1395164662s/21492635.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1395164662s/21492635.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1395164662m/21492635.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1395164662l/21492635.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Critica ratiunii pure, tradusa de Nicolae Bagdasar si Elena Moisuc in 1969, a ajuns la cea de-a treia editie. Cu acest prilej, profesorul dr. Ilie Parvu, de la Facultatea de Filosofie a Universitatii din Bucuresti a ingrijit noua operatie de editare, fiind astfel corectate unele erori de tipar si unele inconsecvente terminologice. <br /><br /><a target="_blank" href="http://ro.wikipedia.org/wiki/Critica_ra%C8%9Biunii_pure" rel="nofollow">http://ro.wikipedia.org/wiki/Critica_...</a>]]></book_description>
+    <book id="21492635">
+      <num_pages>608</num_pages>
     </book>
-    <author_name>Derek Parfit</author_name>
-    <isbn>019824908X</isbn>
+    <author_name>Immanuel Kant</author_name>
+    <isbn>9786069226</isbn>
     <user_name>Alexandru</user_name>
     <user_rating>0</user_rating>
     <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Tue, 02 Jan 2018 01:24:23 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Thu, 28 Dec 2017 12:25:53 -0800]]></user_date_created>
+    <user_date_added><![CDATA[Thu, 05 Apr 2018 12:42:33 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 30 Aug 2016 00:18:24 -0700]]></user_date_created>
     <user_shelves>currently-reading</user_shelves>
     <user_review></user_review>
-    <average_rating>4.23</average_rating>
-    <book_published>1984</book_published>
+    <average_rating>3.89</average_rating>
+    <book_published>1781</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/327051.Reasons_and_Persons?utm_medium=api&amp;utm_source=rss"><img alt="Reasons and Persons" src="https://images.gr-assets.com/books/1348967787s/327051.jpg" /></a><br/>
-                                      author: Derek Parfit<br/>
+      <a href="https://www.goodreads.com/book/show/21492635-critica-ratiunii-pure?utm_medium=api&amp;utm_source=rss"><img alt="Critica ratiunii pure" src="https://images.gr-assets.com/books/1395164662s/21492635.jpg" /></a><br/>
+                                      author: Immanuel Kant<br/>
                                       name: Alexandru<br/>
-                                      average rating: 4.23<br/>
-                                      book published: 1984<br/>
+                                      average rating: 3.89<br/>
+                                      book published: 1781<br/>
                                       rating: 0<br/>
                                       read at: <br/>
-                                      date added: 2018/01/02<br/>
+                                      date added: 2018/04/05<br/>
+                                      shelves: currently-reading<br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/2340054917?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Mon, 26 Mar 2018 02:29:25 -0700]]></pubDate>
+    <title><![CDATA[Philosophy of Language: A Contemporary Introduction]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/2340054917?utm_medium=api&utm_source=rss]]></link>
+    <book_id>9646566</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1328362493s/9646566.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1328362493s/9646566.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1328362493m/9646566.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1328362493l/9646566.jpg]]></book_large_image_url>
+    <book_description><![CDATA[<p><em>Philosophy of Language: A Contemporary Introduction</em> introduces the student to the main issues and theories in twentieth century philosophy of language, focusing specifically on linguistic phenomena. </p><br /><p></p><br /><p>Topics are structured in four parts in the book. Part I, Reference and Referring Expressions, includes topics such as Russell's Theory of Desciptions, Donnellan's distinction, problems of anaphora, the description theory of proper names, Searle's cluster theory, and the causal-historical theory. Part II, Theories of Meaning, surveys the competing theories of linguistic meaning and compares their various advantages and liabilities. Part III, Pragmatics and Speech Acts, introduces the basic concepts of linguistic pragmatics, includes a detailed discussion of the problem of indirect force and surveys approaches to metaphor. Part IV, new to this edition, examines the four theories of metaphor.</p><br /><p></p><br /><p>Features of <em>Philosophy of Language</em> include:</p><br /> <br /><p>
+    <br /></p>
+   new chapters on Frege and puzzles, inferentialism, illocutionary theories of meaning and relevance theory 
+  <br /><p></p>
+  <br /><p>
+    <br /></p>
+   chapter overviews and summaries 
+  <br /><p></p>
+  <br /><p>
+    <br /></p>
+   clear supportive examples 
+  <br /><p></p>
+  <br /><p>
+    <br /></p>
+   study questions 
+  <br /><p></p>
+  <br /><p>
+    <br /></p>
+   annotated further reading 
+  <br /><p></p>
+  <br /><p>
+    <br /></p>
+   glossary. 
+  <br /><p></p>
+ <br /><p></p><br /><p> </p>]]></book_description>
+    <book id="9646566">
+      <num_pages>234</num_pages>
+    </book>
+    <author_name>William G. Lycan</author_name>
+    <isbn></isbn>
+    <user_name>Alexandru</user_name>
+    <user_rating>0</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Mon, 26 Mar 2018 02:29:25 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Mon, 26 Mar 2018 02:24:34 -0700]]></user_date_created>
+    <user_shelves>currently-reading</user_shelves>
+    <user_review></user_review>
+    <average_rating>3.43</average_rating>
+    <book_published>1999</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/9646566-philosophy-of-language?utm_medium=api&amp;utm_source=rss"><img alt="Philosophy of Language: A Contemporary Introduction" src="https://images.gr-assets.com/books/1328362493s/9646566.jpg" /></a><br/>
+                                      author: William G. Lycan<br/>
+                                      name: Alexandru<br/>
+                                      average rating: 3.43<br/>
+                                      book published: 1999<br/>
+                                      rating: 0<br/>
+                                      read at: <br/>
+                                      date added: 2018/03/26<br/>
+                                      shelves: currently-reading<br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/2247946122?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Mon, 08 Jan 2018 14:35:53 -0800]]></pubDate>
+    <title><![CDATA[All that Is Solid Melts into Air: The Experience of Modernity]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/2247946122?utm_medium=api&utm_source=rss]]></link>
+    <book_id>261355</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1386748178s/261355.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1386748178s/261355.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1386748178m/261355.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1386748178l/261355.jpg]]></book_large_image_url>
+    <book_description><![CDATA[The political and social revolutions of the nineteenth century, the pivotal writings of Goethe, Marx, Dostoevsky, and others, and the creation of new environments to replace the old - all have thrust us into a modern world of contradictions and ambiguities. In this fascinating book, Marshall Berman examines the clash of classes, histories, and cultures, and ponders our prospects for coming to terms with the relationship between a liberating social and philosophical idealism and a complex, bureaucratic materialism.<br /><p>From a reinterpretation of Karl Mark to an incisive consideration of the impact of Robert Moses on modern urban living. Berman charts the progress of the twentieth-century experience. He concludes that adaptation to continual flux is possible and that therein lies our hope for achieving a truly modern society.</p>]]></book_description>
+    <book id="261355">
+      <num_pages>384</num_pages>
+    </book>
+    <author_name>Marshall Berman</author_name>
+    <isbn>0860917851</isbn>
+    <user_name>Alexandru</user_name>
+    <user_rating>0</user_rating>
+    <user_read_at></user_read_at>
+    <user_date_added><![CDATA[Mon, 08 Jan 2018 14:35:53 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Sun, 07 Jan 2018 12:09:29 -0800]]></user_date_created>
+    <user_shelves>currently-reading</user_shelves>
+    <user_review></user_review>
+    <average_rating>4.06</average_rating>
+    <book_published>1982</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/261355.All_that_Is_Solid_Melts_into_Air?utm_medium=api&amp;utm_source=rss"><img alt="All that Is Solid Melts into Air: The Experience of Modernity" src="https://images.gr-assets.com/books/1386748178s/261355.jpg" /></a><br/>
+                                      author: Marshall Berman<br/>
+                                      name: Alexandru<br/>
+                                      average rating: 4.06<br/>
+                                      book published: 1982<br/>
+                                      rating: 0<br/>
+                                      read at: <br/>
+                                      date added: 2018/01/08<br/>
                                       shelves: currently-reading<br/>
                                       review: <br/><br/>
                                       ]]>
@@ -123,55 +227,15 @@
     <user_date_created><![CDATA[Tue, 13 Jun 2017 14:03:58 -0700]]></user_date_created>
     <user_shelves>currently-reading</user_shelves>
     <user_review></user_review>
-    <average_rating>4.40</average_rating>
+    <average_rating>4.50</average_rating>
     <book_published>1921</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/19202845-tractatus-logico-philosophicus?utm_medium=api&amp;utm_source=rss"><img alt="Tractatus Logico-Philosophicus" src="https://images.gr-assets.com/books/1386237616s/19202845.jpg" /></a><br/>
                                       author: Ludwig Wittgenstein<br/>
                                       name: Alexandru<br/>
-                                      average rating: 4.40<br/>
+                                      average rating: 4.50<br/>
                                       book published: 1921<br/>
-                                      rating: 0<br/>
-                                      read at: <br/>
-                                      date added: 2017/12/24<br/>
-                                      shelves: currently-reading<br/>
-                                      review: <br/><br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/2223800515?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Sun, 24 Dec 2017 00:26:17 -0800]]></pubDate>
-    <title>Animal Liberation</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/2223800515?utm_medium=api&utm_source=rss]]></link>
-    <book_id>25689973</book_id>
-    <book_image_url><![CDATA[https://images.gr-assets.com/books/1442854283s/25689973.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1442854283s/25689973.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1442854283m/25689973.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1442854283l/25689973.jpg]]></book_large_image_url>
-    <book_description><![CDATA[<b>How should we treat non-human animals? </b>In this immensely powerful and influential book (now with a new introduction by <i>Sapiens </i>author Yuval Noah Harari), the renowned moral philosopher Peter Singer addresses this simple question with trenchant, dispassionate reasoning. Accompanied by the disturbing evidence of factory farms and laboratories, his answers triggered the birth of the animal rights movement.<br /><br /><b>'An extraordinary book which has had extraordinary effects... Widely known as the bible of the animal liberation movement' <i>Independent on Sunday</i></b><br /><br />In the decades since this landmark classic first appeared, some public attitudes to animals may have changed but our continued abuse of animals in factory farms and as tools for research shows that the underlying ideas Singer exposes as ethically indefensible are still dominating the way we treat animals. As Yuval Harari’s brilliantly argued introduction makes clear, this book is as relevant now as the day it was written.]]></book_description>
-    <book id="25689973">
-      <num_pages></num_pages>
-    </book>
-    <author_name>Peter Singer</author_name>
-    <isbn>1473524423</isbn>
-    <user_name>Alexandru</user_name>
-    <user_rating>0</user_rating>
-    <user_read_at></user_read_at>
-    <user_date_added><![CDATA[Sun, 24 Dec 2017 00:26:17 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Sun, 24 Dec 2017 00:25:32 -0800]]></user_date_created>
-    <user_shelves>currently-reading</user_shelves>
-    <user_review></user_review>
-    <average_rating>5.00</average_rating>
-    <book_published>1975</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/25689973-animal-liberation?utm_medium=api&amp;utm_source=rss"><img alt="Animal Liberation" src="https://images.gr-assets.com/books/1442854283s/25689973.jpg" /></a><br/>
-                                      author: Peter Singer<br/>
-                                      name: Alexandru<br/>
-                                      average rating: 5.00<br/>
-                                      book published: 1975<br/>
                                       rating: 0<br/>
                                       read at: <br/>
                                       date added: 2017/12/24<br/>
