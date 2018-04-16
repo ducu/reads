@@ -21,8 +21,8 @@
       }
     </script>
   </head>
-  <body data-spy="scroll" data-target="#nav">
-
+  <body>
+    <!-- data-spy="scroll" data-target="#nav" -->
     <header class="header">
       <nav id="nav" class="container-fluid">
         <div id="mug" class="text-center">
@@ -33,7 +33,7 @@
         <div id="menu">
           <ul class="nav nav-pills nav-justified">
             <li id="item-currently" class="nav-item">
-              <a class="nav-link" href="#currently">Currently reading</a>
+              <a class="nav-link active" href="#currently">Currently reading</a>
             </li>
             <li id="item-2018" class="nav-item ml-auto">
               <a class="nav-link" href="#2018">2018</a>
@@ -88,10 +88,11 @@
             $("#item-" + sectionId + " a").text(
               data[i][2] + " " + "(" + count + ")");
           }
+
+          $("body").scrollspy({ target: "#nav" })
+
         });
       });
-
-      // $("body").scrollspy({ target: "#nav" })
     </script>
   </body>
 </html>
