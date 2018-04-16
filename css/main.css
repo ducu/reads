@@ -41,14 +41,14 @@ body {
 .item img {
   float: right;
 }
-.item div {
-  margin-top: 15px;
-}
 .item p {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 .item img {
   padding-left: 5px;
+}
+.about {
+  margin-top: 25px;
 }
 .author_name {
   color: #6c757d;
