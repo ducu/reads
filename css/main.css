@@ -11,9 +11,11 @@ body {
  * --------------------------------------------------
  */
 .header {
-  position: fixed;
+  /*position: fixed;*/
   z-index: 1;
   width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
   background-color: rgba(255,255,255,0.95);
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
@@ -24,7 +26,7 @@ body {
  * --------------------------------------------------
 */
 .section {
-  padding-top: 100px;
+  padding-top: 70px;
   font-family: "Merriweather", Georgia, "Times New Roman", serif;
 }
 
