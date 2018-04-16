@@ -21,19 +21,17 @@
       }
     </script>
   </head>
-  <body>
+  <body data-spy="scroll" data-target="#nav">
 
     <header class="header">
       <nav id="nav" class="container-fluid">
-
-        <div id="navbar-mug" class="text-center">
+        <div id="mug" class="text-center">
           <a href="/" class="nav-link">
             <img class="rounded-circle" src="https://avatars3.githubusercontent.com/u/104093?s=40&v=4" title="@ducu" />
           </a>
         </div>
-
-        <div id="navbar-menu">
-          <ul class="nav">
+        <div id="menu">
+          <ul class="nav nav-pills">
             <li id="item-currently" class="nav-item mr-auto">
               <a class="nav-link" href="#currently">Currently reading</a>
             </li>
@@ -48,12 +46,10 @@
             </li>
           </ul>
         </div>
-
       </nav>
     </header>
 
-    <div class="sections"
-      data-spy="scroll" data-target="#nav" data-offset="0">
+    <div class="sections">
       <div id="currently" class="section"></div>
       <div id="2018" class="section"></div>
       <div id="2017" class="section"></div>
@@ -94,7 +90,6 @@
           }
         });
       });
-
     </script>
   </body>
 </html>
