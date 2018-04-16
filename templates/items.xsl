@@ -13,7 +13,14 @@
 
 <xsl:template name="item">
   <li class="item">
-    <h3 class="title"><xsl:value-of select="title"/></h3>
+    <h3 class="title">
+      <xsl:element name="a">
+        <xsl:attribute name="href">
+          <xsl:value-of select="link"/>
+        </xsl:attribute>
+        <xsl:value-of select="title"/>
+      </xsl:element>
+    </h3>
     <h5 class="author_name">by <xsl:value-of select="author_name"/></h5>
     <xsl:element name="img">
       <xsl:attribute name="src">
