@@ -14,8 +14,7 @@ body {
   /*position: fixed;*/
   z-index: 1;
   width: 100%;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding: 5px;
   background-color: rgba(255,255,255,0.95);
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
@@ -32,4 +31,5 @@ body {
 
 .items {
   list-style: none;
+  -webkit-padding-start: 0;
 }
