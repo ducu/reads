@@ -14,7 +14,7 @@
       var template = "templates/items.xsl";
       var data = {
         // i: ["sectionId", "xmlURL"]
-        0: ["currently", "data/currently.xml", "Currently reading"],
+        0: ["currently", "data/currently.xml", "Reading"],
         1: ["2016", "data/2016.xml", "2016"],
         2: ["2017", "data/2017.xml", "2017"],
         3: ["2018", "data/2018.xml", "2018"] 
@@ -23,8 +23,8 @@
   </head>
   <body>
     <!-- data-spy="scroll" data-target="#nav" -->
-    <header class="header">
-      <nav id="nav" class="container-fluid">
+    <header class="header container-fluid">
+      <nav id="nav">
         <div id="mug" class="text-center">
           <a href="/" class="nav-link">
             <img class="rounded-circle" src="https://avatars3.githubusercontent.com/u/104093?s=40&v=4" title="@ducu" />
@@ -33,9 +33,9 @@
         <div id="menu">
           <ul class="nav nav-pills nav-justified">
             <li id="item-currently" class="nav-item">
-              <a class="nav-link" href="#currently">Currently reading</a>
+              <a class="nav-link" href="#currently">Reading</a>
             </li>
-            <li id="item-2018" class="nav-item ml-auto">
+            <li id="item-2018" class="nav-item">
               <a class="nav-link" href="#2018">2018</a>
             </li>
             <li id="item-2017" class="nav-item">
@@ -49,7 +49,7 @@
       </nav>
     </header>
 
-    <div class="sections">
+    <div class="sections container-fluid">
       <div id="currently" class="section"></div>
       <div id="2018" class="section"></div>
       <div id="2017" class="section"></div>
