@@ -13,6 +13,11 @@
 
 <xsl:template name="item">
   <li class="item">
+    <xsl:element name="img">
+      <xsl:attribute name="src">
+        <xsl:value-of select="book_medium_image_url"/>
+      </xsl:attribute>
+    </xsl:element>
     <h3 class="title">
       <xsl:element name="a">
         <xsl:attribute name="href">
@@ -22,11 +27,6 @@
       </xsl:element>
     </h3>
     <h5 class="author_name">by <xsl:value-of select="author_name"/></h5>
-    <xsl:element name="img">
-      <xsl:attribute name="src">
-        <xsl:value-of select="book_medium_image_url"/>
-      </xsl:attribute>
-    </xsl:element>
     <div class="about">
       <p>Rated: <xsl:if test="user_rating != 0"><span class="user_rating"><xsl:value-of select="user_rating"/></span> of </xsl:if><span class="average_rating"><xsl:value-of select="average_rating"/></span></p>
       <xsl:if test="user_read_at != ''">
@@ -35,6 +35,7 @@
       <xsl:if test="user_review != ''">
       <div class="user_review">Review: <xsl:value-of select="user_review" disable-output-escaping="yes"/></div>
       </xsl:if>
+      <div class="clearfix"/>
     </div>
     <hr/>
   </li>

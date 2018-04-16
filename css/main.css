@@ -40,16 +40,12 @@ body {
 }
 .item img {
   float: right;
-  padding: 5px;
 }
 .item div {
   margin-top: 15px;
 }
 .item p {
   margin-bottom: 15px;
-}
-.item hr {
-  clear: right;
 }
 .about {
   color: #6c757d;
