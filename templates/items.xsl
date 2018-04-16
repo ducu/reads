@@ -18,14 +18,14 @@
         <xsl:value-of select="book_medium_image_url"/>
       </xsl:attribute>
     </xsl:element>
-    <h3 class="title">
+    <h4 class="title">
       <xsl:element name="a">
         <xsl:attribute name="href">
           <xsl:value-of select="link"/>
         </xsl:attribute>
         <xsl:value-of select="title"/>
       </xsl:element>
-    </h3>
+    </h4>
     <h5 class="author_name">by <xsl:value-of select="author_name"/></h5>
     <div class="about">
       <p>Rated: <xsl:if test="user_rating != 0"><span class="user_rating"><xsl:value-of select="user_rating"/></span> of </xsl:if><span class="average_rating"><xsl:value-of select="average_rating"/></span></p>
