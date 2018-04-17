@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../templates/table.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
   <channel>
     <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -83,14 +82,14 @@
     <user_date_created><![CDATA[Sun, 06 Nov 2016 07:38:45 -0800]]></user_date_created>
     <user_shelves>2016</user_shelves>
     <user_review></user_review>
-    <average_rating>3.22</average_rating>
+    <average_rating>3.40</average_rating>
     <book_published>1861</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/22605170-utilitarismul?utm_medium=api&amp;utm_source=rss"><img alt="Utilitarismul" src="https://images.gr-assets.com/books/1404131509s/22605170.jpg" /></a><br/>
                                       author: John Stuart Mill<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.22<br/>
+                                      average rating: 3.40<br/>
                                       book published: 1861<br/>
                                       rating: 4<br/>
                                       read at: 2016/11/17<br/>
@@ -163,14 +162,14 @@
     <user_date_created><![CDATA[Mon, 10 Oct 2016 21:05:12 -0700]]></user_date_created>
     <user_shelves>2016</user_shelves>
     <user_review><![CDATA[As Peter Singer is the winner of the 2016 <a href="https://philosophynow.org/award" rel="nofollow">Award for Contributions in the Fight Against Stupidity</a>, this may be the most important book of the year.<br /><br />It's a collection of bite-sized essays that have been published online these past years on project-syndicate.org and other websites, and are freely accessible. While I suggest you buy the book, as I did, you can check out this page of contents with links to all the essays that I've found online: <a target="_blank" href="https://ducu.github.io/ethics-in-the-real-world/" rel="nofollow">https://ducu.github.io/ethics-in-the-...</a><br /><br />In the <a href="http://press.princeton.edu/chapters/i10803.pdf" rel="nofollow">introduction</a> it is clearly stated that the book is aimed at the general public (see 5th paragraph). The wide range of ethical issues and the briefness of the essays are consequences of that, and still I see poor ratings, coming probably from philosophy scholars, only because the essays are too short. <br /><br />Besides the urgency of the various ethical issues (e.g. abortion in Poland), I think the importance of this book comes especially from the fact that it targets a broad audience. Ethics studies the best way for all people to live, so it should be promoted from the realm of philosophy and presented to the general public.]]></user_review>
-    <average_rating>3.87</average_rating>
+    <average_rating>3.88</average_rating>
     <book_published>2016</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/29452545-ethics-in-the-real-world?utm_medium=api&amp;utm_source=rss"><img alt="Ethics in the Real World: 82 Brief Essays on Things That Matter" src="https://images.gr-assets.com/books/1462160752s/29452545.jpg" /></a><br/>
                                       author: Peter Singer<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.87<br/>
+                                      average rating: 3.88<br/>
                                       book published: 2016<br/>
                                       rating: 5<br/>
                                       read at: 2016/12/07<br/>
@@ -203,14 +202,14 @@
     <user_date_created><![CDATA[Wed, 05 Oct 2016 12:01:14 -0700]]></user_date_created>
     <user_shelves>2016</user_shelves>
     <user_review></user_review>
-    <average_rating>3.67</average_rating>
+    <average_rating>3.50</average_rating>
     <book_published>1987</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/20987570-ce-nseamn-oare-toate-acestea?utm_medium=api&amp;utm_source=rss"><img alt="Ce înseamnă, oare, toate acestea?: o foarte scurtă introducere în filozofie" src="https://images.gr-assets.com/books/1394048163s/20987570.jpg" /></a><br/>
                                       author: Thomas Nagel<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.67<br/>
+                                      average rating: 3.50<br/>
                                       book published: 1987<br/>
                                       rating: 3<br/>
                                       read at: 2016/10/10<br/>
@@ -323,14 +322,14 @@
     <user_date_created><![CDATA[Tue, 30 Aug 2016 20:47:44 -0700]]></user_date_created>
     <user_shelves>2016</user_shelves>
     <user_review></user_review>
-    <average_rating>3.48</average_rating>
+    <average_rating>3.54</average_rating>
     <book_published>2000</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/17931292-ignoran-a?utm_medium=api&amp;utm_source=rss"><img alt="Ignoranța" src="https://images.gr-assets.com/books/1368821988s/17931292.jpg" /></a><br/>
                                       author: Milan Kundera<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.48<br/>
+                                      average rating: 3.54<br/>
                                       book published: 2000<br/>
                                       rating: 3<br/>
                                       read at: 2016/08/31<br/>
@@ -363,14 +362,14 @@
     <user_date_created><![CDATA[Tue, 05 Jul 2016 02:06:08 -0700]]></user_date_created>
     <user_shelves>2016</user_shelves>
     <user_review></user_review>
-    <average_rating>4.05</average_rating>
+    <average_rating>4.04</average_rating>
     <book_published>2013</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/17707599-moral-tribes?utm_medium=api&amp;utm_source=rss"><img alt="Moral Tribes: Emotion, Reason, and the Gap Between Us and Them" src="https://images.gr-assets.com/books/1368425200s/17707599.jpg" /></a><br/>
                                       author: Joshua D. Greene<br/>
                                       name: Alexandru<br/>
-                                      average rating: 4.05<br/>
+                                      average rating: 4.04<br/>
                                       book published: 2013<br/>
                                       rating: 5<br/>
                                       read at: 2016/07/05<br/>
@@ -403,14 +402,14 @@
     <user_date_created><![CDATA[Tue, 05 Jul 2016 01:53:19 -0700]]></user_date_created>
     <user_shelves>2016</user_shelves>
     <user_review></user_review>
-    <average_rating>3.96</average_rating>
+    <average_rating>3.95</average_rating>
     <book_published>2010</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/7776209-the-rational-optimist?utm_medium=api&amp;utm_source=rss"><img alt="The Rational Optimist: How Prosperity Evolves" src="https://images.gr-assets.com/books/1347664546s/7776209.jpg" /></a><br/>
                                       author: Matt Ridley<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.96<br/>
+                                      average rating: 3.95<br/>
                                       book published: 2010<br/>
                                       rating: 4<br/>
                                       read at: 2016/05/19<br/>
@@ -443,15 +442,15 @@
     <user_date_created><![CDATA[Thu, 11 Aug 2016 23:50:30 -0700]]></user_date_created>
     <user_shelves>2016</user_shelves>
     <user_review></user_review>
-    <average_rating>4.05</average_rating>
-    <book_published>1966</book_published>
+    <average_rating>4.06</average_rating>
+    <book_published>1959</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/18373.Flowers_for_Algernon?utm_medium=api&amp;utm_source=rss"><img alt="Flowers for Algernon" src="https://images.gr-assets.com/books/1367141311s/18373.jpg" /></a><br/>
                                       author: Daniel Keyes<br/>
                                       name: Alexandru<br/>
-                                      average rating: 4.05<br/>
-                                      book published: 1966<br/>
+                                      average rating: 4.06<br/>
+                                      book published: 1959<br/>
                                       rating: 5<br/>
                                       read at: 2016/08/14<br/>
                                       date added: 2018/01/02<br/>
@@ -483,14 +482,14 @@
     <user_date_created><![CDATA[Fri, 02 Sep 2016 01:45:12 -0700]]></user_date_created>
     <user_shelves>2016</user_shelves>
     <user_review></user_review>
-    <average_rating>3.82</average_rating>
+    <average_rating>3.81</average_rating>
     <book_published>2008</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/3828382-tribes?utm_medium=api&amp;utm_source=rss"><img alt="Tribes: We Need You to Lead Us" src="https://images.gr-assets.com/books/1347711639s/3828382.jpg" /></a><br/>
                                       author: Seth Godin<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.82<br/>
+                                      average rating: 3.81<br/>
                                       book published: 2008<br/>
                                       rating: 2<br/>
                                       read at: 2016/09/03<br/>
@@ -523,14 +522,14 @@
     <user_date_created><![CDATA[Thu, 11 Feb 2016 10:23:59 -0800]]></user_date_created>
     <user_shelves>2016</user_shelves>
     <user_review></user_review>
-    <average_rating>3.79</average_rating>
+    <average_rating>3.82</average_rating>
     <book_published>2015</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/21527117-the-gentle-sleep-book?utm_medium=api&amp;utm_source=rss"><img alt="The Gentle Sleep Book: A Guide for calm babies, toddlers and pre-schoolers" src="https://images.gr-assets.com/books/1424981203s/21527117.jpg" /></a><br/>
                                       author: Sarah Ockwell-Smith<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.79<br/>
+                                      average rating: 3.82<br/>
                                       book published: 2015<br/>
                                       rating: 5<br/>
                                       read at: 2016/02/22<br/>

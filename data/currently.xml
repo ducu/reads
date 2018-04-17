@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../templates/items.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
   <channel>
     <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -110,7 +109,7 @@
     <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1328362493s/9646566.jpg]]></book_small_image_url>
     <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1328362493m/9646566.jpg]]></book_medium_image_url>
     <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1328362493l/9646566.jpg]]></book_large_image_url>
-    <book_description><![CDATA[<p><em>Philosophy of Language: A Contemporary Introduction</em> introduces the student to the main issues and theories in twentieth century philosophy of language, focusing specifically on linguistic phenomena. </p><br /><p></p><br /><p>Topics are structured in four parts in the book. Part I, Reference and Referring Expressions, includes topics such as Russell's Theory of Desciptions, Donnellan's distinction, problems of anaphora, the description theory of proper names, Searle's cluster theory, and the causal-historical theory. Part II, Theories of Meaning, surveys the competing theories of linguistic meaning and compares their various advantages and liabilities. Part III, Pragmatics and Speech Acts, introduces the basic concepts of linguistic pragmatics, includes a detailed discussion of the problem of indirect force and surveys approaches to metaphor. Part IV, new to this edition, examines the four theories of metaphor.</p><br /><p></p><br /><p>Features of <em>Philosophy of Language</em> include:</p><br /> <br /><p>
+    <book_description><![CDATA[<p><em>Philosophy of Language: A Contemporary Introduction</em> introduces the student to the main issues and theories in twentieth century philosophy of language, focusing specifically on linguistic phenomena. </p><br /><p></p><br /><p>Topics are structured in four parts in the book. Part I, Reference and Referring Expressions, includes topics such as Russell's Theory of Desciptions, Donnellan's distinction, problems of anaphora, the description theory of proper names, Searle's cluster theory, and the causal-historical theory. Part II, Theories of Meaning, surveys the competing theories of linguistic meaning and compares their various advantages and liabilities. Part III, Pragmatics and Speech Acts, introduces the basic concepts of linguistic pragmatics, includes a detailed discussion of the problem of indirect force and surveys approaches to metaphor. Part IV, new to this edition, examines the four theories of metaphor.</p><br /><p></p><br /><p>Features of <em>Philosophy of Language</em> include:</p><br /> <br /><p>
     <br /></p>
    new chapters on Frege and puzzles, inferentialism, illocutionary theories of meaning and relevance theory 
   <br /><p></p>
@@ -134,7 +133,7 @@
     <br /></p>
    glossary. 
   <br /><p></p>
- <br /><p></p><br /><p> </p>]]></book_description>
+ <br /><p></p><br /><p> </p>]]></book_description>
     <book id="9646566">
       <num_pages>234</num_pages>
     </book>
