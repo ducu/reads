@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../templates/table.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
   <channel>
     <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
@@ -10,7 +9,7 @@
     <atom:link href="https://www.goodreads.com/review/list_rss/7653898?key=jKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa&amp;shelf=2017" rel="self" type="application/rss+xml" />
     <description><![CDATA[Alexandru's bookshelf: 2017]]></description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 30 Dec 2017 04:18:03 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Apr 2018 13:46:57 -0700</lastBuildDate>
     <ttl>60</ttl>
     <image>
       <title>Alexandru's bookshelf: 2017</title>
@@ -20,6 +19,126 @@
       <url>https://www.goodreads.com/images/layout/goodreads_logo_144.jpg</url>
     </image>
     
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/1863391974?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 17 Apr 2018 13:46:57 -0700]]></pubDate>
+    <title>History of Western Philosophy</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/1863391974?utm_medium=api&utm_source=rss]]></link>
+    <book_id>11073324</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1391780561s/11073324.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1391780561s/11073324.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1391780561m/11073324.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1391780561l/11073324.jpg]]></book_large_image_url>
+    <book_description><![CDATA[First published in 1946, "History of Western Philosophy" went on to become the best-selling philosophy book of the twentieth century. A dazzlingly ambitious project, it remains unchallenged to this day as the ultimate introduction to Western philosophy. Providing a sophisticated overview of the ideas that have perplexed people from time immemorial, Russell's "History of Western Philosophy" offered a cogent precis of its subject. Of course this cannot be the only reason it ended up the best selling philosophy book of the twentieth century. Russell's book was 'long on wit, intelligence and curmudgeonly scepticism', as the "New York Times" noted, and it is this, coupled with the sheer brilliance of its scholarship, that has made Russell's "History of Western Philosophy" one of the most important philosophical works of all time.]]></book_description>
+    <book id="11073324">
+      <num_pages>977</num_pages>
+    </book>
+    <author_name>Bertrand Russell</author_name>
+    <isbn>0203487974</isbn>
+    <user_name>Alexandru</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at><![CDATA[Sat, 02 Dec 2017 12:25:02 -0800]]></user_read_at>
+    <user_date_added><![CDATA[Tue, 17 Apr 2018 13:46:57 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Tue, 03 Jan 2017 01:54:34 -0800]]></user_date_created>
+    <user_shelves>2017</user_shelves>
+    <user_review><![CDATA[Having started it in January and finished in December, this was definitely the book of the year for me. It's about one thousand pages to read, or thirty-five hours to listen. I've read the ebook while listening to the audio book, swiping my iPad to make <a href="https://github.com/ducu/reads/blob/master/notes/bertrandrussellhistoryofwesternphilosophy.html" rel="nofollow">highlights</a>, and occasionally sipping some wine. This was a total experience because it required not just all of my senses, but also all of my reason. And it takes a lot of reason to go through the history of reason as presented by one of the most reasonable individuals of our culture. I totally recommend it.]]></user_review>
+    <average_rating>4.67</average_rating>
+    <book_published>1945</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/11073324-history-of-western-philosophy?utm_medium=api&amp;utm_source=rss"><img alt="History of Western Philosophy" src="https://images.gr-assets.com/books/1391780561s/11073324.jpg" /></a><br/>
+                                      author: Bertrand Russell<br/>
+                                      name: Alexandru<br/>
+                                      average rating: 4.67<br/>
+                                      book published: 1945<br/>
+                                      rating: 5<br/>
+                                      read at: 2017/12/02<br/>
+                                      date added: 2018/04/17<br/>
+                                      shelves: 2017<br/>
+                                      review: <br/>Having started it in January and finished in December, this was definitely the book of the year for me. It's about one thousand pages to read, or thirty-five hours to listen. I've read the ebook while listening to the audio book, swiping my iPad to make <a href="https://github.com/ducu/reads/blob/master/notes/bertrandrussellhistoryofwesternphilosophy.html" rel="nofollow">highlights</a>, and occasionally sipping some wine. This was a total experience because it required not just all of my senses, but also all of my reason. And it takes a lot of reason to go through the history of reason as presented by one of the most reasonable individuals of our culture. I totally recommend it.<br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/2062884962?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Tue, 20 Mar 2018 10:15:05 -0700]]></pubDate>
+    <title>De anima. Parva naturalia</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/2062884962?utm_medium=api&utm_source=rss]]></link>
+    <book_id>35692472</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1500283067s/35692472.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1500283067s/35692472.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1500283067m/35692472.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1500283067l/35692472.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Volumul cuprinde celebrul tratat De anima (Despre suflet), în care filosoful din Stagira pledează pentru cunoașterea sufletului ca o condiție sine qua non a „adâncirii adevărului în întregul său”, și cele șapte Scurte tratate de științe naturale, adunate de interpreții latini ai lui Aristotel în culegerea Parva naturalia. O lectură dimpreună a acestor opere ni-l relevă pe filosof ca stând totodată la originea științelor omului și a ontologiei umanului - aceasta din urmă de cel mai mare interes pentru gândirea contemporană.]]></book_description>
+    <book id="35692472">
+      <num_pages>286</num_pages>
+    </book>
+    <author_name>Aristotle</author_name>
+    <isbn>9734401637</isbn>
+    <user_name>Alexandru</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at><![CDATA[Sat, 12 Aug 2017 00:00:00 -0700]]></user_read_at>
+    <user_date_added><![CDATA[Tue, 20 Mar 2018 10:15:05 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Mon, 17 Jul 2017 02:17:58 -0700]]></user_date_created>
+    <user_shelves>2017</user_shelves>
+    <user_review><![CDATA[Citind seara asta, în București, la peste 30°C, următorul pasaj din scurtul tratat Despre tinereţe şi bătrâneţe, viaţă şi moarte, şi despre respiraţie, am priceput ce voia să zică Aristotel: AER CONDIȚIONAT!!<br /><br />"Însă pentru ce anume cele ce îl posedă primesc aerul şi respiră, în primul rând toate câte au plămân cu sânge, explicaţia o dă faptul că plămânul e spongios şi străbătut de vase subţiri. Dar mai ales acest organ, printre cele ce se numesc măruntaie, este cu sânge. Pe de altă parte, fireşte, toate câte au plămân cu sânge au nevoie de o grabnică răcorire, spre a face să fie mai mică forța căldurii psihice, dar şi să pătrundă peste tot, datorită abundenţei de sânge şi căldură. Pe acestea două [respiraţie şi răcire] aerul poate lesne să le aducă la împlinire; prin uşurătatea sa de la natură el aduce răcorire, strecurându-se peste tot şi repede; apa, dimpotrivă. Iar pentru ce anume respiră mai ales cele ce au plămânul sanguin, este limpede de aci: căci tocmai ceea ce e mai cald are nevoie de un plus de răcire, şi în acelaşi timp aerul se scurge uşor înspre izvorul de căldură, cel din inimă."]]></user_review>
+    <average_rating>5.00</average_rating>
+    <book_published>-350</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/35692472-de-anima-parva-naturalia?utm_medium=api&amp;utm_source=rss"><img alt="De anima. Parva naturalia" src="https://images.gr-assets.com/books/1500283067s/35692472.jpg" /></a><br/>
+                                      author: Aristotle<br/>
+                                      name: Alexandru<br/>
+                                      average rating: 5.00<br/>
+                                      book published: -350<br/>
+                                      rating: 5<br/>
+                                      read at: 2017/08/12<br/>
+                                      date added: 2018/03/20<br/>
+                                      shelves: 2017<br/>
+                                      review: <br/>Citind seara asta, în București, la peste 30°C, următorul pasaj din scurtul tratat Despre tinereţe şi bătrâneţe, viaţă şi moarte, şi despre respiraţie, am priceput ce voia să zică Aristotel: AER CONDIȚIONAT!!<br /><br />"Însă pentru ce anume cele ce îl posedă primesc aerul şi respiră, în primul rând toate câte au plămân cu sânge, explicaţia o dă faptul că plămânul e spongios şi străbătut de vase subţiri. Dar mai ales acest organ, printre cele ce se numesc măruntaie, este cu sânge. Pe de altă parte, fireşte, toate câte au plămân cu sânge au nevoie de o grabnică răcorire, spre a face să fie mai mică forța căldurii psihice, dar şi să pătrundă peste tot, datorită abundenţei de sânge şi căldură. Pe acestea două [respiraţie şi răcire] aerul poate lesne să le aducă la împlinire; prin uşurătatea sa de la natură el aduce răcorire, strecurându-se peste tot şi repede; apa, dimpotrivă. Iar pentru ce anume respiră mai ales cele ce au plămânul sanguin, este limpede de aci: căci tocmai ceea ce e mai cald are nevoie de un plus de răcire, şi în acelaşi timp aerul se scurge uşor înspre izvorul de căldură, cel din inimă."<br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/2116528491?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Sat, 17 Mar 2018 06:48:35 -0700]]></pubDate>
+    <title>Epopeea lui Ghilgameș</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/2116528491?utm_medium=api&utm_source=rss]]></link>
+    <book_id>18366781</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1377198832s/18366781.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1377198832s/18366781.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1377198832m/18366781.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1377198832l/18366781.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Cu peste un mileniu şi jumătate înainte de a fi fost create poemele homerice, în Mesopotamia, «ţara dintre cele două fluvii», scribii scrijeleau pe plăci de cărămidă arsă, în ciudata lor scriere cuneiformă, cea dintâi epopee a lumii. <br />Mai veche decât Iliada şi Odiseea, mai veche decât Biblia, epopeea care cântă vitejiile şi suferinţele lui Ghilgameş, legendarul rege al Urukului, îşi datoreşte însă valoarea universală nu numai vechimii, ci mai cu seamă deosebitelor sale merite care privesc deopotrivă calitatea şi caracterul operei. Amestec de întâmplări minunate, de multe ori dramatice, cu profunde învăţături morale, el ne înfăţişează pe cel dintâi erou tragic al tuturor timpurilor. <br />Ceea ce este fundamental în mitul lui Ghilgameş se poate numi drama existenţială a omului, lupta lui cu forţele oculte şi perspectiva înfrângerii lor, raportul cu femeia şi raportul de prietenie între oameni, teama de moarte şi setea de nemurire; paralel, mitul rezumă alegoric istoria devenirii şi destinul oamenilor ca societate: vânătoarea, păstoritul, civilizaţia urbană, constituirea statului arhaic, catastrofele cosmice, marile întrebări ale gândirii.]]></book_description>
+    <book id="18366781">
+      <num_pages>160</num_pages>
+    </book>
+    <author_name>Anonymous</author_name>
+    <isbn>9739703488</isbn>
+    <user_name>Alexandru</user_name>
+    <user_rating>4</user_rating>
+    <user_read_at><![CDATA[Mon, 11 Sep 2017 22:22:31 -0700]]></user_read_at>
+    <user_date_added><![CDATA[Sat, 17 Mar 2018 06:48:35 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Wed, 06 Sep 2017 22:49:17 -0700]]></user_date_created>
+    <user_shelves>2017</user_shelves>
+    <user_review></user_review>
+    <average_rating>3.50</average_rating>
+    <book_published>-1750</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/18366781-epopeea-lui-ghilgame?utm_medium=api&amp;utm_source=rss"><img alt="Epopeea lui Ghilgameș" src="https://images.gr-assets.com/books/1377198832s/18366781.jpg" /></a><br/>
+                                      author: Anonymous<br/>
+                                      name: Alexandru<br/>
+                                      average rating: 3.50<br/>
+                                      book published: -1750<br/>
+                                      rating: 4<br/>
+                                      read at: 2017/09/11<br/>
+                                      date added: 2018/03/17<br/>
+                                      shelves: 2017<br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/2191788643?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Sat, 30 Dec 2017 04:18:03 -0800]]></pubDate>
@@ -123,14 +242,14 @@
     <user_date_created><![CDATA[Mon, 06 Nov 2017 06:06:49 -0800]]></user_date_created>
     <user_shelves>2017</user_shelves>
     <user_review><![CDATA[This is a short apologetic review of capitalism, “the most skilled machine we have ever constructed for satiating human needs”. Looking at Maslow’s pyramid, it suggests that capitalism is now still at version 1.0 as it doesn’t quite satisfy our higher needs yet, morality being the highest of these needs.]]></user_review>
-    <average_rating>4.27</average_rating>
+    <average_rating>4.11</average_rating>
     <book_published></book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/36470342-how-to-reform-capitalism?utm_medium=api&amp;utm_source=rss"><img alt="How to Reform Capitalism (Essay Books)" src="https://images.gr-assets.com/books/1508868666s/36470342.jpg" /></a><br/>
                                       author: The School of Life Press<br/>
                                       name: Alexandru<br/>
-                                      average rating: 4.27<br/>
+                                      average rating: 4.11<br/>
                                       book published: <br/>
                                       rating: 3<br/>
                                       read at: 2017/12/23<br/>
@@ -163,14 +282,14 @@
     <user_date_created><![CDATA[Thu, 21 Dec 2017 04:27:59 -0800]]></user_date_created>
     <user_shelves>2017</user_shelves>
     <user_review><![CDATA[Karl Marx thought that the historical oppression of the many by the few was not sustainable anymore, and that oppression can be ended only by taking over the means of oppression (i.e. capital). His pernicious plan was meant to impose a system of equality regarding the mere material existence while disregarding the morality of human kind. <br /><br />I think that following quote by Percy Shelley, although it appeared before The Communist Manifesto, shows why this ideology was doomed to fail: "The system of equality which they established necessarily fell to the ground, because it is a system that must result from, rather than precede, the moral improvement of human kind."]]></user_review>
-    <average_rating>3.67</average_rating>
+    <average_rating>3.71</average_rating>
     <book_published>1848</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/23269106-the-communist-manifesto?utm_medium=api&amp;utm_source=rss"><img alt="The Communist Manifesto" src="https://images.gr-assets.com/books/1442026383s/23269106.jpg" /></a><br/>
                                       author: Karl Marx<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.67<br/>
+                                      average rating: 3.71<br/>
                                       book published: 1848<br/>
                                       rating: 3<br/>
                                       read at: 2017/12/22<br/>
@@ -203,14 +322,14 @@
     <user_date_created><![CDATA[Fri, 27 Oct 2017 01:45:58 -0700]]></user_date_created>
     <user_shelves>2017</user_shelves>
     <user_review><![CDATA[If you have a regular lifestyle and feel good about yourself, I bet that if you read this book, something will change: either your lifestyle, or the good feeling about yourself.]]></user_review>
-    <average_rating>4.27</average_rating>
+    <average_rating>4.25</average_rating>
     <book_published>1990</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/583681.Created_from_Animals?utm_medium=api&amp;utm_source=rss"><img alt="Created from Animals" src="https://images.gr-assets.com/books/1347510335s/583681.jpg" /></a><br/>
                                       author: James Rachels<br/>
                                       name: Alexandru<br/>
-                                      average rating: 4.27<br/>
+                                      average rating: 4.25<br/>
                                       book published: 1990<br/>
                                       rating: 5<br/>
                                       read at: 2017/12/18<br/>
@@ -284,14 +403,14 @@
     <user_shelves>2017</user_shelves>
     <user_review><![CDATA[If reason is what makes humans different from other animals, the paradox of this book is that it is accepted by the more reasonable humans, while it is rejected by the humans who refuse to use their reason.]]></user_review>
     <average_rating>4.15</average_rating>
-    <book_published>1859</book_published>
+    <book_published>1858</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/23522501-on-the-origin-of-species-abridged?utm_medium=api&amp;utm_source=rss"><img alt="On the Origin of Species [Abridged]" src="https://images.gr-assets.com/books/1415596712s/23522501.jpg" /></a><br/>
                                       author: Charles Darwin<br/>
                                       name: Alexandru<br/>
                                       average rating: 4.15<br/>
-                                      book published: 1859<br/>
+                                      book published: 1858<br/>
                                       rating: 5<br/>
                                       read at: 2017/12/12<br/>
                                       date added: 2017/12/12<br/>
@@ -323,14 +442,14 @@
     <user_date_created><![CDATA[Wed, 01 Nov 2017 11:50:18 -0700]]></user_date_created>
     <user_shelves>2017</user_shelves>
     <user_review><![CDATA[Asta e singura recomandare, ca lectură de vacanță, pe care o fac studenților filosofi. Oricine a îndrăznit să se confrunte cu Kant, Hegel, Schopenhauer, Comte, Spencer sau Nietzsche, s-a ales inevitabil cu răni intelectuale. Cartea lui Papini e ca o alifie calmantă ce grăbește vindecarea, dar nu vă așteptați să scoată complet cicatricele.]]></user_review>
-    <average_rating>4.27</average_rating>
+    <average_rating>4.31</average_rating>
     <book_published>1906</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/17369825-amurgul-filozofilor?utm_medium=api&amp;utm_source=rss"><img alt="Amurgul filozofilor" src="https://images.gr-assets.com/books/1360697493s/17369825.jpg" /></a><br/>
                                       author: Giovanni Papini<br/>
                                       name: Alexandru<br/>
-                                      average rating: 4.27<br/>
+                                      average rating: 4.31<br/>
                                       book published: 1906<br/>
                                       rating: 4<br/>
                                       read at: 2017/12/08<br/>
@@ -377,46 +496,6 @@
                                       date added: 2017/12/05<br/>
                                       shelves: 2017<br/>
                                       review: <br/>A citi Critica lui Kant este datoria fiecărui student filosof. Indiferent de înclinațiile filosofice pe care le-ar avea și chiar împotriva acestora, prin libertatea de a-și defini propria moralitate, rațiunea sa pură practică îl constrânge la lectura Criticii.<br /><br />„Sentimentul care provine din conștiința acestei constrângeri nu este patologic, ca un sentiment care ar fi produs de un obiect al simțurilor, ci numai practic, adică posibil printr-o determinare anterioară (obiectivă) a voinței și prin cauzalitatea rațiunii. El nu conține deci, ca supunere la o lege, cu alte cuvinte ca poruncă (ceea ce indică constrângere pentru subiectul afectat sensibil), nici o plăcere, ci conține ca atare mai curând neplăcere pentru acțiunea în sine. În schimb însă, cum această constrângere este exercitată numai prin legislația propriei rațiuni, el conține și înălțare, iar efectul subiectiv asupra sentimentului, întrucât rațiunea pură practică este singura lui cauză, nu poate fi numit, în raport cu această înălțare, numai aprobare de sine prin faptul că ne recunoaștem determinați la aceasta fără nici un interes, numai de lege, și astfel devenim conștienți de un cu totul alt interes produs subiectiv de acesta, care este pur practic și liber, pe care nu ne sfătuiește vreo înclinație să-l avem pentru o acțiune conform datoriei, ci ni-l ordonă pur și simplu rațiunea prin legea practică și îl produce cu adevărat; iar de aceea el poartă un nume cu totul particular, pe acela de respect.”<br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/1863391974?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Sun, 03 Dec 2017 15:28:54 -0800]]></pubDate>
-    <title>History of Western Philosophy</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/1863391974?utm_medium=api&utm_source=rss]]></link>
-    <book_id>11073324</book_id>
-    <book_image_url><![CDATA[https://images.gr-assets.com/books/1391780561s/11073324.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1391780561s/11073324.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1391780561m/11073324.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1391780561l/11073324.jpg]]></book_large_image_url>
-    <book_description><![CDATA[First published in 1946, "History of Western Philosophy" went on to become the best-selling philosophy book of the twentieth century. A dazzlingly ambitious project, it remains unchallenged to this day as the ultimate introduction to Western philosophy. Providing a sophisticated overview of the ideas that have perplexed people from time immemorial, Russell's "History of Western Philosophy" offered a cogent precis of its subject. Of course this cannot be the only reason it ended up the best selling philosophy book of the twentieth century. Russell's book was 'long on wit, intelligence and curmudgeonly scepticism', as the "New York Times" noted, and it is this, coupled with the sheer brilliance of its scholarship, that has made Russell's "History of Western Philosophy" one of the most important philosophical works of all time.]]></book_description>
-    <book id="11073324">
-      <num_pages>977</num_pages>
-    </book>
-    <author_name>Bertrand Russell</author_name>
-    <isbn>0203487974</isbn>
-    <user_name>Alexandru</user_name>
-    <user_rating>5</user_rating>
-    <user_read_at><![CDATA[Sat, 02 Dec 2017 12:25:02 -0800]]></user_read_at>
-    <user_date_added><![CDATA[Sun, 03 Dec 2017 15:28:54 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 03 Jan 2017 01:54:34 -0800]]></user_date_created>
-    <user_shelves>2017</user_shelves>
-    <user_review><![CDATA[Having started it in January and finished in December, this was definitely the book of the year for me. It's about one thousand pages to read, or thirty-five hours to listen. I've read the ebook while listening to the audio book, swiping my iPad to make <a href="http://htmlpreview.github.com/?https://github.com/ducu/reads/blob/master/bertrandrussellhistoryofwesternphilosophy.html" rel="nofollow">highlights</a>, and occasionally sipping some wine. This was a total experience because it required not just all of my senses, but also all of my reason. And it takes a lot of reason to go through the history of reason as presented by one of the most reasonable individuals of our culture. I totally recommend it.]]></user_review>
-    <average_rating>4.67</average_rating>
-    <book_published>1945</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/11073324-history-of-western-philosophy?utm_medium=api&amp;utm_source=rss"><img alt="History of Western Philosophy" src="https://images.gr-assets.com/books/1391780561s/11073324.jpg" /></a><br/>
-                                      author: Bertrand Russell<br/>
-                                      name: Alexandru<br/>
-                                      average rating: 4.67<br/>
-                                      book published: 1945<br/>
-                                      rating: 5<br/>
-                                      read at: 2017/12/02<br/>
-                                      date added: 2017/12/03<br/>
-                                      shelves: 2017<br/>
-                                      review: <br/>Having started it in January and finished in December, this was definitely the book of the year for me. It's about one thousand pages to read, or thirty-five hours to listen. I've read the ebook while listening to the audio book, swiping my iPad to make <a href="http://htmlpreview.github.com/?https://github.com/ducu/reads/blob/master/bertrandrussellhistoryofwesternphilosophy.html" rel="nofollow">highlights</a>, and occasionally sipping some wine. This was a total experience because it required not just all of my senses, but also all of my reason. And it takes a lot of reason to go through the history of reason as presented by one of the most reasonable individuals of our culture. I totally recommend it.<br/>
                                       ]]>
     </description>
   </item>
@@ -501,46 +580,6 @@
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/2062884962?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Fri, 17 Nov 2017 00:02:27 -0800]]></pubDate>
-    <title>De anima. Parva naturalia</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/2062884962?utm_medium=api&utm_source=rss]]></link>
-    <book_id>35692472</book_id>
-    <book_image_url><![CDATA[https://images.gr-assets.com/books/1500283067s/35692472.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1500283067s/35692472.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1500283067m/35692472.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1500283067l/35692472.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Volumul cuprinde celebrul tratat De anima (Despre suflet), în care filosoful din Stagira pledează pentru cunoașterea sufletului ca o condiție sine qua non a „adâncirii adevărului în întregul său”, și cele șapte Scurte tratate de științe naturale, adunate de interpreții latini ai lui Aristotel în culegerea Parva naturalia. O lectură dimpreună a acestor opere ni-l relevă pe filosof ca stând totodată la originea științelor omului și a ontologiei umanului - aceasta din urmă de cel mai mare interes pentru gândirea contemporană.]]></book_description>
-    <book id="35692472">
-      <num_pages>286</num_pages>
-    </book>
-    <author_name>Aristotle</author_name>
-    <isbn>9734401637</isbn>
-    <user_name>Alexandru</user_name>
-    <user_rating>5</user_rating>
-    <user_read_at><![CDATA[Sat, 12 Aug 2017 00:00:00 -0700]]></user_read_at>
-    <user_date_added><![CDATA[Fri, 17 Nov 2017 00:02:27 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Mon, 17 Jul 2017 02:17:58 -0700]]></user_date_created>
-    <user_shelves>2017</user_shelves>
-    <user_review><![CDATA[Citind seara asta, în București, la peste 30°C, următorul pasaj din scurtul tratat Despre tinereţe şi bătrâneţe, viaţă şi moarte, şi despre respiraţie, am priceput ce voia să zică Aristotel: AER CONDIȚIONAT!!<br /><br />"Însă pentru ce anume cele ce îl posedă primesc aerul şi respiră, în primul rând toate câte au plămân cu sânge, explicaţia o dă faptul că plămânul e spongios şi străbătut de vase subţiri. Dar mai ales acest organ, printre cele ce se numesc măruntaie, este cu sânge. Pe de altă parte, fireşte, toate câte au plămân cu sânge au nevoie de o grabnică răcorire, spre a face să fie mai mică forța căldurii psihice, dar şi să pătrundă peste tot, datorită abundenţei de sânge şi căldură. Pe acestea două [respiraţie şi răcire] aerul poate lesne să le aducă la împlinire; prin uşurătatea sa de la natură el aduce răcorire, strecurându-se peste tot şi repede; apa, dimpotrivă. Iar pentru ce anume respiră mai ales cele ce au plămânul sanguin, este limpede de aci: căci tocmai ceea ce e mai cald are nevoie de un plus de răcire, şi în acelaşi timp aerul se scurge uşor înspre izvorul de căldură, cel din inimă."]]></user_review>
-    <average_rating>5.00</average_rating>
-    <book_published></book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/35692472-de-anima-parva-naturalia?utm_medium=api&amp;utm_source=rss"><img alt="De anima. Parva naturalia" src="https://images.gr-assets.com/books/1500283067s/35692472.jpg" /></a><br/>
-                                      author: Aristotle<br/>
-                                      name: Alexandru<br/>
-                                      average rating: 5.00<br/>
-                                      book published: <br/>
-                                      rating: 5<br/>
-                                      read at: 2017/08/12<br/>
-                                      date added: 2017/11/17<br/>
-                                      shelves: 2017<br/>
-                                      review: <br/>Citind seara asta, în București, la peste 30°C, următorul pasaj din scurtul tratat Despre tinereţe şi bătrâneţe, viaţă şi moarte, şi despre respiraţie, am priceput ce voia să zică Aristotel: AER CONDIȚIONAT!!<br /><br />"Însă pentru ce anume cele ce îl posedă primesc aerul şi respiră, în primul rând toate câte au plămân cu sânge, explicaţia o dă faptul că plămânul e spongios şi străbătut de vase subţiri. Dar mai ales acest organ, printre cele ce se numesc măruntaie, este cu sânge. Pe de altă parte, fireşte, toate câte au plămân cu sânge au nevoie de o grabnică răcorire, spre a face să fie mai mică forța căldurii psihice, dar şi să pătrundă peste tot, datorită abundenţei de sânge şi căldură. Pe acestea două [respiraţie şi răcire] aerul poate lesne să le aducă la împlinire; prin uşurătatea sa de la natură el aduce răcorire, strecurându-se peste tot şi repede; apa, dimpotrivă. Iar pentru ce anume respiră mai ales cele ce au plămânul sanguin, este limpede de aci: căci tocmai ceea ce e mai cald are nevoie de un plus de răcire, şi în acelaşi timp aerul se scurge uşor înspre izvorul de căldură, cel din inimă."<br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/2174047521?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Mon, 06 Nov 2017 07:16:06 -0800]]></pubDate>
     <title>Scrisoare către tata</title>
@@ -563,14 +602,14 @@
     <user_date_created><![CDATA[Sat, 04 Nov 2017 13:34:03 -0700]]></user_date_created>
     <user_shelves>2017</user_shelves>
     <user_review>Kafka, tată!</user_review>
-    <average_rating>3.87</average_rating>
+    <average_rating>3.88</average_rating>
     <book_published>1952</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/30319468-scrisoare-c-tre-tata?utm_medium=api&amp;utm_source=rss"><img alt="Scrisoare către tata" src="https://images.gr-assets.com/books/1464623281s/30319468.jpg" /></a><br/>
                                       author: Franz Kafka<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.87<br/>
+                                      average rating: 3.88<br/>
                                       book published: 1952<br/>
                                       rating: 3<br/>
                                       read at: 2017/11/05<br/>
@@ -617,6 +656,86 @@
                                       date added: 2017/11/06<br/>
                                       shelves: 2017<br/>
                                       review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/2168391462?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Mon, 06 Nov 2017 07:16:05 -0800]]></pubDate>
+    <title><![CDATA[Purgatoriul (The Divine Comedy, #2)]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/2168391462?utm_medium=api&utm_source=rss]]></link>
+    <book_id>31315647</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1470112817s/31315647.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1470112817s/31315647.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1470112817m/31315647.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1470112817l/31315647.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Capodopera a literaturii universale, prima capodopera a literaturii europene moderne, <i>Divina comedie</i> constituie un poem alegoric, in trei parti, infatisind un vast tablou al umanitatii medievale.]]></book_description>
+    <book id="31315647">
+      <num_pages>232</num_pages>
+    </book>
+    <author_name>Dante Alighieri</author_name>
+    <isbn>9975790763</isbn>
+    <user_name>Alexandru</user_name>
+    <user_rating>4</user_rating>
+    <user_read_at><![CDATA[Tue, 31 Oct 2017 15:34:23 -0700]]></user_read_at>
+    <user_date_added><![CDATA[Mon, 06 Nov 2017 07:16:05 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Mon, 30 Oct 2017 05:25:27 -0700]]></user_date_created>
+    <user_shelves>2017</user_shelves>
+    <user_review></user_review>
+    <average_rating>4.33</average_rating>
+    <book_published>1320</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/31315647-purgatoriul?utm_medium=api&amp;utm_source=rss"><img alt="Purgatoriul (The Divine Comedy, #2)" src="https://images.gr-assets.com/books/1470112817s/31315647.jpg" /></a><br/>
+                                      author: Dante Alighieri<br/>
+                                      name: Alexandru<br/>
+                                      average rating: 4.33<br/>
+                                      book published: 1320<br/>
+                                      rating: 4<br/>
+                                      read at: 2017/10/31<br/>
+                                      date added: 2017/11/06<br/>
+                                      shelves: 2017<br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/2148138007?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Mon, 06 Nov 2017 07:16:05 -0800]]></pubDate>
+    <title><![CDATA[Întemeierea metafizicii moravurilor]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/2148138007?utm_medium=api&utm_source=rss]]></link>
+    <book_id>22597593</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1403945582s/22597593.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1403945582s/22597593.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1403945582m/22597593.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1403945582l/22597593.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Publicată inițial, în prima ediție în 1785, cu titlul Grundlegung zur Metaphysik der Sitten, este una dintre cele mai influente creații din întreaga operă filosofică a lui Immanuel Kant și, totodată, un reper în istoria filosofiei universale.<br />Lucrarea filosofului german cuprinde o prefață, trei secțiuni – Trecerea de la cunoaşterea raţională comună a moravurilor la aceea filosofică, Trecerea de la înţelepciunea morală populară la metafizica moravurilor, Trecerea de la metafizica moravurilor la critica raţiunii pure practice – și o remarcă finală, precedate de nota traducătorului, Valentin Mureșan.<br />În prefață, Kant pledează pentru o metafizică a moravurilor și discută despre metodologia pe care a folosit-o. El pornește de la împărțirea filosofiei grecești în fizică, etică și logică. În prima secțiune, după cum și titlul sugerează, se face trecerea de la forma cunoașterii comune privind moravurile la cea filosofică. El discută, printre altele, despre voința bună și datorie. În secțiunea a doua se aprofundează problema imperativelor. În ultima secțiune, Kant discută despre voință, libertate. De fapt, cea de-a treia secțiune reprezintă punctul de pornire de la care Kant a dezvoltat Critica rațiunii practice, publicată în 1788.]]></book_description>
+    <book id="22597593">
+      <num_pages>120</num_pages>
+    </book>
+    <author_name>Immanuel Kant</author_name>
+    <isbn></isbn>
+    <user_name>Alexandru</user_name>
+    <user_rating>4</user_rating>
+    <user_read_at><![CDATA[Wed, 18 Oct 2017 14:15:59 -0700]]></user_read_at>
+    <user_date_added><![CDATA[Mon, 06 Nov 2017 07:16:05 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Mon, 09 Oct 2017 08:38:25 -0700]]></user_date_created>
+    <user_shelves>2017</user_shelves>
+    <user_review><![CDATA["Citind Întemeierea metafizicii moravurilor în București" ar putea fi, la scară locală desigur, un bestseller — o selecție de memorii, precum aceea a lui Azar Nafisi din cartea sa "Citind Lolita în Teheran", dar din perioada recentă a ultimelor decenii, ce au loc în această capitală periferică europeană. Moralitatea oamenilor de aici e constituită, la fel ca doctrina morală a lui Kant, pe premisa libertății. Asemănarea între cele două moralități se oprește însă aici. Conceptele kantiene de datorie, respect, lege universală, imperativ categoric, chiar și ființă rațională, nu se regăsesc în această moralitate, să-i zicem, românească. Conceptul esențial al acestei moralități este excepția. Legea, regula, norma, devin aici niște contingențe și sunt folosite doar pentru a pune în valoare excepția. Dar asta nu mai este normativitate.<br /><br />Acu vreo două săptămâni, când am cumpărat "Întemeierea metafizicii moravurilor", vecinul de la 5 a început renovarea apartamentului. Programul de lucru, sau cum îi zice fiică-mea în vârstă de 2 ani — programul de gălăgie, coincide, între orele 13-17, cu programul de liniște așa cum este afișat deasupra intrării blocului unde locuiesc în București. În același interval orar încearcă și fiică-mea să doarmă, zilnic, acasă. Discuțiile pe care le-am avut, din pricina acestei contradicții, cu vecinul de la 5, cu agenții poliției locale la care am apelat la sugestia acestuia, cu administratorul blocului, iar apoi cu vecinul de la 6 care, urmând exemplul celui de la 5, își stabilise același program de gălăgie dar în plus își instalase masa de lucru și flexul în holul blocului, au fost pe de o parte foarte amuzante, iar pe de altă parte edificatoare pentru mine în înțelegerea doctrinei morale kantiene. Povestea asta, expusă sub formă de dialog, ar putea fi una dintre memoriile din "Citind Întemeierea metafizicii moravurilor în București".<br /><br />Cred că astfel de cărți, nu doar adresate publicului larg, ci concepute să devină bestseller-uri, ar valorifica efortul uriaș al filosofilor de a elabora teorii morale, popularizându-le și, totodată, punând la îndoială, măcar pentru cei cu înclinația (sic!) spre gândire critică, propria moralitate.]]></user_review>
+    <average_rating>4.25</average_rating>
+    <book_published>1785</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/22597593-ntemeierea-metafizicii-moravurilor?utm_medium=api&amp;utm_source=rss"><img alt="Întemeierea metafizicii moravurilor" src="https://images.gr-assets.com/books/1403945582s/22597593.jpg" /></a><br/>
+                                      author: Immanuel Kant<br/>
+                                      name: Alexandru<br/>
+                                      average rating: 4.25<br/>
+                                      book published: 1785<br/>
+                                      rating: 4<br/>
+                                      read at: 2017/10/18<br/>
+                                      date added: 2017/11/06<br/>
+                                      shelves: 2017<br/>
+                                      review: <br/>"Citind Întemeierea metafizicii moravurilor în București" ar putea fi, la scară locală desigur, un bestseller — o selecție de memorii, precum aceea a lui Azar Nafisi din cartea sa "Citind Lolita în Teheran", dar din perioada recentă a ultimelor decenii, ce au loc în această capitală periferică europeană. Moralitatea oamenilor de aici e constituită, la fel ca doctrina morală a lui Kant, pe premisa libertății. Asemănarea între cele două moralități se oprește însă aici. Conceptele kantiene de datorie, respect, lege universală, imperativ categoric, chiar și ființă rațională, nu se regăsesc în această moralitate, să-i zicem, românească. Conceptul esențial al acestei moralități este excepția. Legea, regula, norma, devin aici niște contingențe și sunt folosite doar pentru a pune în valoare excepția. Dar asta nu mai este normativitate.<br /><br />Acu vreo două săptămâni, când am cumpărat "Întemeierea metafizicii moravurilor", vecinul de la 5 a început renovarea apartamentului. Programul de lucru, sau cum îi zice fiică-mea în vârstă de 2 ani — programul de gălăgie, coincide, între orele 13-17, cu programul de liniște așa cum este afișat deasupra intrării blocului unde locuiesc în București. În același interval orar încearcă și fiică-mea să doarmă, zilnic, acasă. Discuțiile pe care le-am avut, din pricina acestei contradicții, cu vecinul de la 5, cu agenții poliției locale la care am apelat la sugestia acestuia, cu administratorul blocului, iar apoi cu vecinul de la 6 care, urmând exemplul celui de la 5, își stabilise același program de gălăgie dar în plus își instalase masa de lucru și flexul în holul blocului, au fost pe de o parte foarte amuzante, iar pe de altă parte edificatoare pentru mine în înțelegerea doctrinei morale kantiene. Povestea asta, expusă sub formă de dialog, ar putea fi una dintre memoriile din "Citind Întemeierea metafizicii moravurilor în București".<br /><br />Cred că astfel de cărți, nu doar adresate publicului larg, ci concepute să devină bestseller-uri, ar valorifica efortul uriaș al filosofilor de a elabora teorii morale, popularizându-le și, totodată, punând la îndoială, măcar pentru cei cu înclinația (sic!) spre gândire critică, propria moralitate.<br/>
                                       ]]>
     </description>
   </item>
@@ -683,140 +802,20 @@
     <user_date_created><![CDATA[Thu, 26 Oct 2017 01:40:19 -0700]]></user_date_created>
     <user_shelves>2017</user_shelves>
     <user_review><![CDATA[La prima navigare, urmărind titlurile pe internet, universul nostru etic pare să se extindă. Ne preocupăm de căsătorie și sex, avort și eutanasie, drepturi ale animalelor și ale roboților, inteligență artificială și mașini autonome. Un tânăr etician ar putea să-și aleagă, dintr-o gamă tot mai largă, una dintre aceste probleme etice aflate acum în interesul publicului.<br /><br />Emilian Mihailov aprofundează însă, în Arhitectonica moralității, prin prisma teoriei etice a lui Kant, nu o problemă sau un grup de probleme etice, ci totalitatea lor. Care este principiul moralității? Care sunt formulele moralității, ce raporturi există între ele și care este justificarea acestei structuri? Arhitectonica moralității este o lucrare filosofică de specialitate ce se înscrie în cadrul exegezei kantiene.<br /><br />Dar aceste probleme etice aflate acum în interesul publicului nu pot fi soluționate fără a ne stabili, împreună, principiile moralității și regatul scopurilor spre care vrem să tindem. Din această perspectivă Arhitectonica moralității este un demers important. Fără a se dedica problemelor etice acum populare, Emilian este unul dintre cei mai populari profesori din Facultatea de Filosofie, iar eu am plăcerea să-i fiu student.]]></user_review>
-    <average_rating>5.00</average_rating>
+    <average_rating>4.50</average_rating>
     <book_published></book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/36479195-arhitectonica-moralit-ii?utm_medium=api&amp;utm_source=rss"><img alt="Arhitectonica moralității" src="https://images.gr-assets.com/books/1509007153s/36479195.jpg" /></a><br/>
                                       author: Emilian Mihailov<br/>
                                       name: Alexandru<br/>
-                                      average rating: 5.00<br/>
+                                      average rating: 4.50<br/>
                                       book published: <br/>
                                       rating: 5<br/>
                                       read at: <br/>
                                       date added: 2017/11/06<br/>
                                       shelves: 2017<br/>
                                       review: <br/>La prima navigare, urmărind titlurile pe internet, universul nostru etic pare să se extindă. Ne preocupăm de căsătorie și sex, avort și eutanasie, drepturi ale animalelor și ale roboților, inteligență artificială și mașini autonome. Un tânăr etician ar putea să-și aleagă, dintr-o gamă tot mai largă, una dintre aceste probleme etice aflate acum în interesul publicului.<br /><br />Emilian Mihailov aprofundează însă, în Arhitectonica moralității, prin prisma teoriei etice a lui Kant, nu o problemă sau un grup de probleme etice, ci totalitatea lor. Care este principiul moralității? Care sunt formulele moralității, ce raporturi există între ele și care este justificarea acestei structuri? Arhitectonica moralității este o lucrare filosofică de specialitate ce se înscrie în cadrul exegezei kantiene.<br /><br />Dar aceste probleme etice aflate acum în interesul publicului nu pot fi soluționate fără a ne stabili, împreună, principiile moralității și regatul scopurilor spre care vrem să tindem. Din această perspectivă Arhitectonica moralității este un demers important. Fără a se dedica problemelor etice acum populare, Emilian este unul dintre cei mai populari profesori din Facultatea de Filosofie, iar eu am plăcerea să-i fiu student.<br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/2168391462?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Mon, 06 Nov 2017 07:16:05 -0800]]></pubDate>
-    <title><![CDATA[Purgatoriul (The Divine Comedy, #2)]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/2168391462?utm_medium=api&utm_source=rss]]></link>
-    <book_id>31315647</book_id>
-    <book_image_url><![CDATA[https://images.gr-assets.com/books/1470112817s/31315647.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1470112817s/31315647.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1470112817m/31315647.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1470112817l/31315647.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Capodopera a literaturii universale, prima capodopera a literaturii europene moderne, <i>Divina comedie</i> constituie un poem alegoric, in trei parti, infatisind un vast tablou al umanitatii medievale.]]></book_description>
-    <book id="31315647">
-      <num_pages>232</num_pages>
-    </book>
-    <author_name>Dante Alighieri</author_name>
-    <isbn>9975790763</isbn>
-    <user_name>Alexandru</user_name>
-    <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Tue, 31 Oct 2017 15:34:23 -0700]]></user_read_at>
-    <user_date_added><![CDATA[Mon, 06 Nov 2017 07:16:05 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Mon, 30 Oct 2017 05:25:27 -0700]]></user_date_created>
-    <user_shelves>2017</user_shelves>
-    <user_review></user_review>
-    <average_rating>4.00</average_rating>
-    <book_published>1320</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/31315647-purgatoriul?utm_medium=api&amp;utm_source=rss"><img alt="Purgatoriul (The Divine Comedy, #2)" src="https://images.gr-assets.com/books/1470112817s/31315647.jpg" /></a><br/>
-                                      author: Dante Alighieri<br/>
-                                      name: Alexandru<br/>
-                                      average rating: 4.00<br/>
-                                      book published: 1320<br/>
-                                      rating: 4<br/>
-                                      read at: 2017/10/31<br/>
-                                      date added: 2017/11/06<br/>
-                                      shelves: 2017<br/>
-                                      review: <br/><br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/2148138007?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Mon, 06 Nov 2017 07:16:05 -0800]]></pubDate>
-    <title><![CDATA[Întemeierea metafizicii moravurilor]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/2148138007?utm_medium=api&utm_source=rss]]></link>
-    <book_id>22597593</book_id>
-    <book_image_url><![CDATA[https://images.gr-assets.com/books/1403945582s/22597593.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1403945582s/22597593.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1403945582m/22597593.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1403945582l/22597593.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Publicată inițial, în prima ediție în 1785, cu titlul Grundlegung zur Metaphysik der Sitten, este una dintre cele mai influente creații din întreaga operă filosofică a lui Immanuel Kant și, totodată, un reper în istoria filosofiei universale.<br />Lucrarea filosofului german cuprinde o prefață, trei secțiuni – Trecerea de la cunoaşterea raţională comună a moravurilor la aceea filosofică, Trecerea de la înţelepciunea morală populară la metafizica moravurilor, Trecerea de la metafizica moravurilor la critica raţiunii pure practice – și o remarcă finală, precedate de nota traducătorului, Valentin Mureșan.<br />În prefață, Kant pledează pentru o metafizică a moravurilor și discută despre metodologia pe care a folosit-o. El pornește de la împărțirea filosofiei grecești în fizică, etică și logică. În prima secțiune, după cum și titlul sugerează, se face trecerea de la forma cunoașterii comune privind moravurile la cea filosofică. El discută, printre altele, despre voința bună și datorie. În secțiunea a doua se aprofundează problema imperativelor. În ultima secțiune, Kant discută despre voință, libertate. De fapt, cea de-a treia secțiune reprezintă punctul de pornire de la care Kant a dezvoltat Critica rațiunii practice, publicată în 1788.]]></book_description>
-    <book id="22597593">
-      <num_pages>120</num_pages>
-    </book>
-    <author_name>Immanuel Kant</author_name>
-    <isbn></isbn>
-    <user_name>Alexandru</user_name>
-    <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Wed, 18 Oct 2017 14:15:59 -0700]]></user_read_at>
-    <user_date_added><![CDATA[Mon, 06 Nov 2017 07:16:05 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Mon, 09 Oct 2017 08:38:25 -0700]]></user_date_created>
-    <user_shelves>2017</user_shelves>
-    <user_review><![CDATA["Citind Întemeierea metafizicii moravurilor în București" ar putea fi, la scară locală desigur, un bestseller — o selecție de memorii, precum aceea a lui Azar Nafisi din cartea sa "Citind Lolita în Teheran", dar din perioada recentă a ultimelor decenii, ce au loc în această capitală periferică europeană. Moralitatea oamenilor de aici e constituită, la fel ca doctrina morală a lui Kant, pe premisa libertății. Asemănarea între cele două moralități se oprește însă aici. Conceptele kantiene de datorie, respect, lege universală, imperativ categoric, chiar și ființă rațională, nu se regăsesc în această moralitate, să-i zicem, românească. Conceptul esențial al acestei moralități este excepția. Legea, regula, norma, devin aici niște contingențe și sunt folosite doar pentru a pune în valoare excepția. Dar asta nu mai este normativitate.<br /><br />Acu vreo două săptămâni, când am cumpărat "Întemeierea metafizicii moravurilor", vecinul de la 5 a început renovarea apartamentului. Programul de lucru, sau cum îi zice fiică-mea în vârstă de 2 ani — programul de gălăgie, coincide, între orele 13-17, cu programul de liniște așa cum este afișat deasupra intrării blocului unde locuiesc în București. În același interval orar încearcă și fiică-mea să doarmă, zilnic, acasă. Discuțiile pe care le-am avut, din pricina acestei contradicții, cu vecinul de la 5, cu agenții poliției locale la care am apelat la sugestia acestuia, cu administratorul blocului, iar apoi cu vecinul de la 6 care, urmând exemplul celui de la 5, își stabilise același program de gălăgie dar în plus își instalase masa de lucru și flexul în holul blocului, au fost pe de o parte foarte amuzante, iar pe de altă parte edificatoare pentru mine în înțelegerea doctrinei morale kantiene. Povestea asta, expusă sub formă de dialog, ar putea fi una dintre memoriile din "Citind Întemeierea metafizicii moravurilor în București".<br /><br />Cred că astfel de cărți, nu doar adresate publicului larg, ci concepute să devină bestseller-uri, ar valorifica efortul uriaș al filosofilor de a elabora teorii morale, popularizându-le și, totodată, punând la îndoială, măcar pentru cei cu înclinația (sic!) spre gândire critică, propria moralitate.]]></user_review>
-    <average_rating>4.27</average_rating>
-    <book_published>1785</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/22597593-ntemeierea-metafizicii-moravurilor?utm_medium=api&amp;utm_source=rss"><img alt="Întemeierea metafizicii moravurilor" src="https://images.gr-assets.com/books/1403945582s/22597593.jpg" /></a><br/>
-                                      author: Immanuel Kant<br/>
-                                      name: Alexandru<br/>
-                                      average rating: 4.27<br/>
-                                      book published: 1785<br/>
-                                      rating: 4<br/>
-                                      read at: 2017/10/18<br/>
-                                      date added: 2017/11/06<br/>
-                                      shelves: 2017<br/>
-                                      review: <br/>"Citind Întemeierea metafizicii moravurilor în București" ar putea fi, la scară locală desigur, un bestseller — o selecție de memorii, precum aceea a lui Azar Nafisi din cartea sa "Citind Lolita în Teheran", dar din perioada recentă a ultimelor decenii, ce au loc în această capitală periferică europeană. Moralitatea oamenilor de aici e constituită, la fel ca doctrina morală a lui Kant, pe premisa libertății. Asemănarea între cele două moralități se oprește însă aici. Conceptele kantiene de datorie, respect, lege universală, imperativ categoric, chiar și ființă rațională, nu se regăsesc în această moralitate, să-i zicem, românească. Conceptul esențial al acestei moralități este excepția. Legea, regula, norma, devin aici niște contingențe și sunt folosite doar pentru a pune în valoare excepția. Dar asta nu mai este normativitate.<br /><br />Acu vreo două săptămâni, când am cumpărat "Întemeierea metafizicii moravurilor", vecinul de la 5 a început renovarea apartamentului. Programul de lucru, sau cum îi zice fiică-mea în vârstă de 2 ani — programul de gălăgie, coincide, între orele 13-17, cu programul de liniște așa cum este afișat deasupra intrării blocului unde locuiesc în București. În același interval orar încearcă și fiică-mea să doarmă, zilnic, acasă. Discuțiile pe care le-am avut, din pricina acestei contradicții, cu vecinul de la 5, cu agenții poliției locale la care am apelat la sugestia acestuia, cu administratorul blocului, iar apoi cu vecinul de la 6 care, urmând exemplul celui de la 5, își stabilise același program de gălăgie dar în plus își instalase masa de lucru și flexul în holul blocului, au fost pe de o parte foarte amuzante, iar pe de altă parte edificatoare pentru mine în înțelegerea doctrinei morale kantiene. Povestea asta, expusă sub formă de dialog, ar putea fi una dintre memoriile din "Citind Întemeierea metafizicii moravurilor în București".<br /><br />Cred că astfel de cărți, nu doar adresate publicului larg, ci concepute să devină bestseller-uri, ar valorifica efortul uriaș al filosofilor de a elabora teorii morale, popularizându-le și, totodată, punând la îndoială, măcar pentru cei cu înclinația (sic!) spre gândire critică, propria moralitate.<br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/2116528491?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Mon, 06 Nov 2017 07:16:04 -0800]]></pubDate>
-    <title>Epopeea lui Ghilgameș</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/2116528491?utm_medium=api&utm_source=rss]]></link>
-    <book_id>18366781</book_id>
-    <book_image_url><![CDATA[https://images.gr-assets.com/books/1377198832s/18366781.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1377198832s/18366781.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1377198832m/18366781.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1377198832l/18366781.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Cu peste un mileniu şi jumătate înainte de a fi fost create poemele homerice, în Mesopotamia, «ţara dintre cele două fluvii», scribii scrijeleau pe plăci de cărămidă arsă, în ciudata lor scriere cuneiformă, cea dintâi epopee a lumii. <br />Mai veche decât Iliada şi Odiseea, mai veche decât Biblia, epopeea care cântă vitejiile şi suferinţele lui Ghilgameş, legendarul rege al Urukului, îşi datoreşte însă valoarea universală nu numai vechimii, ci mai cu seamă deosebitelor sale merite care privesc deopotrivă calitatea şi caracterul operei. Amestec de întâmplări minunate, de multe ori dramatice, cu profunde învăţături morale, el ne înfăţişează pe cel dintâi erou tragic al tuturor timpurilor. <br />Ceea ce este fundamental în mitul lui Ghilgameş se poate numi drama existenţială a omului, lupta lui cu forţele oculte şi perspectiva înfrângerii lor, raportul cu femeia şi raportul de prietenie între oameni, teama de moarte şi setea de nemurire; paralel, mitul rezumă alegoric istoria devenirii şi destinul oamenilor ca societate: vânătoarea, păstoritul, civilizaţia urbană, constituirea statului arhaic, catastrofele cosmice, marile întrebări ale gândirii.]]></book_description>
-    <book id="18366781">
-      <num_pages>160</num_pages>
-    </book>
-    <author_name>Anonymous</author_name>
-    <isbn>9739703488</isbn>
-    <user_name>Alexandru</user_name>
-    <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Mon, 11 Sep 2017 22:22:31 -0700]]></user_read_at>
-    <user_date_added><![CDATA[Mon, 06 Nov 2017 07:16:04 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Wed, 06 Sep 2017 22:49:17 -0700]]></user_date_created>
-    <user_shelves>2017</user_shelves>
-    <user_review></user_review>
-    <average_rating>3.50</average_rating>
-    <book_published>1996</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/18366781-epopeea-lui-ghilgame?utm_medium=api&amp;utm_source=rss"><img alt="Epopeea lui Ghilgameș" src="https://images.gr-assets.com/books/1377198832s/18366781.jpg" /></a><br/>
-                                      author: Anonymous<br/>
-                                      name: Alexandru<br/>
-                                      average rating: 3.50<br/>
-                                      book published: 1996<br/>
-                                      rating: 4<br/>
-                                      read at: 2017/09/11<br/>
-                                      date added: 2017/11/06<br/>
-                                      shelves: 2017<br/>
-                                      review: <br/><br/>
                                       ]]>
     </description>
   </item>
@@ -912,7 +911,7 @@
     <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1455829939l/29220279.jpg]]></book_large_image_url>
     <book_description><![CDATA[O exemplară scriere filozofică despre arta de a purta dispute din care să ieşim întotdeauna învingători. Un manual de retorică indispensabil, plin de echivoc, umor şi ironie.<br /><br />Stratagema I<br />Opinia adversarului trebuie extinsă peste limitele ei naturale, ea trebuie interpre tată cât se poate de general, într-un sens cât mai larg, ba chiar exagerată; opinia proprie trebuie luată, în schimb, în sensul cel mai precis, restrângând-o la limite cât se poate de strâmte: căci cu cât mai generală este o opinie, cu atât mai atacabilă este ea.<br />Stratagema a VIII-a<br />Adversarul trebuie înfuriat: căci astfel el nu mai este capabil să judece corect şi să profite de ascendentul pe care-l are, eventual, asupra noastră. Îl putem înfuria fiind pur şi simplu impertinenţi, sâcâindu-l şi fiind în chip vădit nedrepţi cu el.<br />Stratagema a XIV-a<br />O stratagemă impertinentă este să procla măm teza noastră ca fiind demonstrată - văzând că suita de întrebări puse adversarului a atras răspunsuri defavo rabile tezei -, în ciuda oricărei evidenţe, şi să tri umfăm pur şi simplu. Dacă adversarul este timid sau prostănac, iar noi înşine nu ducem lipsă de neobrăzare şi, în plus, avem şi o voce răsunătoare, atunci şansele de izbândă sunt mari.<br />Stratagema XXI<br />În cazul în care adversarul recurge la un argument superficial sau sofistic, pe care-l sesizăm de îndată, putem, desigur, să-l contracarăm arătând peni bilul şi superficialitatea argumentului; dar mai bine este să răspundem printr-un contraargument la fel de superficial şi sofistic, pentru a-l putea pune în încurcă tură. Căci nu adevărul e important, ci cine câştigă.]]></book_description>
     <book id="29220279">
-      <num_pages>194</num_pages>
+      <num_pages>154</num_pages>
     </book>
     <author_name>Arthur Schopenhauer</author_name>
     <isbn></isbn>
@@ -923,14 +922,14 @@
     <user_date_created><![CDATA[Wed, 12 Jul 2017 11:11:31 -0700]]></user_date_created>
     <user_shelves>2017</user_shelves>
     <user_review></user_review>
-    <average_rating>3.40</average_rating>
+    <average_rating>3.42</average_rating>
     <book_published>1830</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/29220279-arta-de-a-avea-ntotdeauna-dreptate?utm_medium=api&amp;utm_source=rss"><img alt="Arta de a avea întotdeauna dreptate" src="https://images.gr-assets.com/books/1455829939s/29220279.jpg" /></a><br/>
                                       author: Arthur Schopenhauer<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.40<br/>
+                                      average rating: 3.42<br/>
                                       book published: 1830<br/>
                                       rating: 3<br/>
                                       read at: 2017/07/14<br/>
@@ -963,14 +962,14 @@
     <user_date_created><![CDATA[Sat, 08 Jul 2017 11:36:47 -0700]]></user_date_created>
     <user_shelves>2017</user_shelves>
     <user_review><![CDATA[Bertrand Russell scrie că pentru el, bucuria vieții (i.e. fericirea) se datorează în foarte mare măsură diminuării preocupării pentru el însuși. Așa că mă bucur pentru cei care nu vor citi cartea asta pentru că nu sunt "în căutarea fericirii", având alte preocupări decât ei înșiși. Mărturisesc că n-aș fi citit-o nici eu dacă n-aș fi preocupat de orice a scris Bertrand Russell (recomand ultimul număr al revistei Philosophy Now care îi este dedicat - <a target="_blank" href="https://philosophynow.org/issues/120" rel="nofollow">https://philosophynow.org/issues/120</a>). Pentru cei care vor citi însă, le sugerez să sară peste capitolul despre nefericirea byroniană direct la cauzele comune ale nefericirii: competiția, plictisul și antrenul, oboseala, invidia, pentru a trece apoi la cauzele fericirii. Cartea nu conține cugetări filozofice ci niște rețete pe care cititorul le poate încerca "în căutarea fericirii". ]]></user_review>
-    <average_rating>3.92</average_rating>
+    <average_rating>3.93</average_rating>
     <book_published>1930</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/15837693-n-c-utarea-fericirii?utm_medium=api&amp;utm_source=rss"><img alt="În căutarea fericirii" src="https://images.gr-assets.com/books/1345458601s/15837693.jpg" /></a><br/>
                                       author: Bertrand Russell<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.92<br/>
+                                      average rating: 3.93<br/>
                                       book published: 1930<br/>
                                       rating: 4<br/>
                                       read at: 2017/07/12<br/>
@@ -1021,6 +1020,46 @@
     </description>
   </item>
   <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/2000144398?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Mon, 06 Nov 2017 07:16:02 -0800]]></pubDate>
+    <title>Banchetul sau Despre iubire</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/2000144398?utm_medium=api&utm_source=rss]]></link>
+    <book_id>34673080</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1490333942s/34673080.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1490333942s/34673080.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1490333942m/34673080.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1490333942l/34673080.jpg]]></book_large_image_url>
+    <book_description><![CDATA[„Cititorul are aici, în românește, o scriere străveche și, prin veacuri, ilustră: <i>Banchetul</i> lui Platon. Tot ce s-a spus despre iubire de la <i>Banchet</i> mai apoi în el își află obârșia și întemeierea, cu singura excepţie a iubirii întru Crist. Pe de altă parte, dialogul este una dintre cele mai mari împliniri ale prozei lui Platon, ale scrisului în Grecia veche și ale artei literare în genere. În sfârșit, scrierea, în ciuda aparentei ei transparenţe, este în multe privinţe dificilă, atât ca idei cât și ca fond istoric al acestor idei: atât întregul gândirii lui Platon, cu tot ce a precedat-o, cât și determinările specifice ale lumii grecești clasice.“ (<b>Petru CREȚIA</b>)]]></book_description>
+    <book id="34673080">
+      <num_pages>188</num_pages>
+    </book>
+    <author_name>Plato</author_name>
+    <isbn>9735056569</isbn>
+    <user_name>Alexandru</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at><![CDATA[Mon, 15 May 2017 00:00:00 -0700]]></user_read_at>
+    <user_date_added><![CDATA[Mon, 06 Nov 2017 07:16:02 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Sun, 14 May 2017 15:37:58 -0700]]></user_date_created>
+    <user_shelves>2017</user_shelves>
+    <user_review><![CDATA[Socrate admite că dacă se pricepe la ceva, atunci se pricepe la iubire. Dialogul ăsta o dovedește cu prisosință și totodată te face să depășești admirația pe care ți'o stârnește Phaidon și Phaidros și să te îndrăgostești iremediabil de Socrate, asemeni lui Alcibiade care, cerându'i'se să îl proslăvească pe Eros cum au făcut toti ceilalți participanți la banchet, preferă să îl laude chiar pe Socrate.]]></user_review>
+    <average_rating>5.00</average_rating>
+    <book_published>-385</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/34673080-banchetul-sau-despre-iubire?utm_medium=api&amp;utm_source=rss"><img alt="Banchetul sau Despre iubire" src="https://images.gr-assets.com/books/1490333942s/34673080.jpg" /></a><br/>
+                                      author: Plato<br/>
+                                      name: Alexandru<br/>
+                                      average rating: 5.00<br/>
+                                      book published: -385<br/>
+                                      rating: 5<br/>
+                                      read at: 2017/05/15<br/>
+                                      date added: 2017/11/06<br/>
+                                      shelves: 2017<br/>
+                                      review: <br/>Socrate admite că dacă se pricepe la ceva, atunci se pricepe la iubire. Dialogul ăsta o dovedește cu prisosință și totodată te face să depășești admirația pe care ți'o stârnește Phaidon și Phaidros și să te îndrăgostești iremediabil de Socrate, asemeni lui Alcibiade care, cerându'i'se să îl proslăvească pe Eros cum au făcut toti ceilalți participanți la banchet, preferă să îl laude chiar pe Socrate.<br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/1998803230?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Mon, 06 Nov 2017 07:16:02 -0800]]></pubDate>
     <title><![CDATA[Primates and Philosophers: How Morality Evolved]]></title>
@@ -1057,46 +1096,6 @@
                                       date added: 2017/11/06<br/>
                                       shelves: 2017<br/>
                                       review: <br/>What is the source of our goodness? Is goodness against our bare nature, merely a veneer laid over a bad natural core? Or is it, on the contrary, a deeply rooted trait of our nature, a by-product of evolution through natural selection? Frans De Waal opens with arguments based on his studies of the social behavior of primates such as chimpanzees and bonobos. Then a bunch of philosophers, such as Peter Singer and Robert Wright, helps clarifying this issue of morality and its evolution. The dialectical structure of the book frames the concept of morality in the light of De Waal's studies, and offers a balanced conclusion that should push us to improve especially our ethics toward animals.<br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/2035723347?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Mon, 06 Nov 2017 07:16:02 -0800]]></pubDate>
-    <title>Sfârșitul Occidentului?</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/2035723347?utm_medium=api&utm_source=rss]]></link>
-    <book_id>17935054</book_id>
-    <book_image_url><![CDATA[https://images.gr-assets.com/books/1368981471s/17935054.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1368981471s/17935054.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1368981471m/17935054.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1368981471l/17935054.jpg]]></book_large_image_url>
-    <book_description><![CDATA[„Aşa ne-a fost dat: să trăim o epocă de răscruce. Fascinantă sau derutantă, în funcţie de percepţia şi gradul de adaptabilitate ale fiecărui individ. O istorie se încheie şi o alta prinde contur. Nu este sfârşitul lumii, dar e ceva ce oarecum îi seamănă: sfârşitul unei lumi. O lume apune şi se întrevăd, ca prin ceaţă, contururile nedesluşite ale unei lumi noi.“<br /><br />„S-a întâmplat la un moment dat ceva ieşit din comun. Miracolul Occidentului. Ar fi putut să nu se întâmple? Cine poate şti? S-a ivit o civilizaţie altfel decât celelalte, care a împins omenirea pe drumul unde se află astăzi.<br />Aroganţa Occidentului a fost pe măsură. În raport cu «ceilalţi», puterea lui a atins o cotă înspăimântătoare. Ne dăm seama astăzi că a fost doar o fază a istoriei. Dar a putut să pară – atât de mare ajunsese să fie distanţa – că e un dat fundamental al unei umanităţi ierarhizate.“ (Lucian BOIA)<br /><br />Se sfârşeşte o lume • Cum merge istoria • Miracolul occidental • Un Occident tot mai mic • Autodeprecierea • Dispariţii: femeia şi rasele • Viaţa de apoi sau zece ani în plus • Naţiunile şi Europa • Impasul democratic • Un deficit de utopie • „Ceilalţi" • Accelerare sau ruptură? • Amestecul • Trei scenarii europene • China, şi iar China • Încălzirea globală şi Noul Nord • Scenarii blânde, scenarii rele • Într-un fel sau altminteri <br /><br />/ Humanitas]]></book_description>
-    <book id="17935054">
-      <num_pages>128</num_pages>
-    </book>
-    <author_name>Lucian Boia</author_name>
-    <isbn>9789735040</isbn>
-    <user_name>Alexandru</user_name>
-    <user_rating>3</user_rating>
-    <user_read_at><![CDATA[Wed, 21 Jun 2017 00:15:10 -0700]]></user_read_at>
-    <user_date_added><![CDATA[Mon, 06 Nov 2017 07:16:02 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Wed, 21 Jun 2017 00:14:47 -0700]]></user_date_created>
-    <user_shelves>2017</user_shelves>
-    <user_review></user_review>
-    <average_rating>3.42</average_rating>
-    <book_published>2013</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/17935054-sf-r-itul-occidentului?utm_medium=api&amp;utm_source=rss"><img alt="Sfârșitul Occidentului?" src="https://images.gr-assets.com/books/1368981471s/17935054.jpg" /></a><br/>
-                                      author: Lucian Boia<br/>
-                                      name: Alexandru<br/>
-                                      average rating: 3.42<br/>
-                                      book published: 2013<br/>
-                                      rating: 3<br/>
-                                      read at: 2017/06/21<br/>
-                                      date added: 2017/11/06<br/>
-                                      shelves: 2017<br/>
-                                      review: <br/><br/>
                                       ]]>
     </description>
   </item>
@@ -1141,42 +1140,42 @@
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/2000144398?utm_medium=api&utm_source=rss]]></guid>
+    <guid><![CDATA[https://www.goodreads.com/review/show/2035723347?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Mon, 06 Nov 2017 07:16:02 -0800]]></pubDate>
-    <title>Banchetul sau Despre iubire</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/2000144398?utm_medium=api&utm_source=rss]]></link>
-    <book_id>34673080</book_id>
-    <book_image_url><![CDATA[https://images.gr-assets.com/books/1490333942s/34673080.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1490333942s/34673080.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1490333942m/34673080.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1490333942l/34673080.jpg]]></book_large_image_url>
-    <book_description><![CDATA[„Cititorul are aici, în românește, o scriere străveche și, prin veacuri, ilustră: <i>Banchetul</i> lui Platon. Tot ce s-a spus despre iubire de la <i>Banchet</i> mai apoi în el își află obârșia și întemeierea, cu singura excepţie a iubirii întru Crist. Pe de altă parte, dialogul este una dintre cele mai mari împliniri ale prozei lui Platon, ale scrisului în Grecia veche și ale artei literare în genere. În sfârșit, scrierea, în ciuda aparentei ei transparenţe, este în multe privinţe dificilă, atât ca idei cât și ca fond istoric al acestor idei: atât întregul gândirii lui Platon, cu tot ce a precedat-o, cât și determinările specifice ale lumii grecești clasice.“ (<b>Petru CREȚIA</b>)]]></book_description>
-    <book id="34673080">
-      <num_pages>188</num_pages>
+    <title>Sfârșitul Occidentului?</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/2035723347?utm_medium=api&utm_source=rss]]></link>
+    <book_id>17935054</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1368981471s/17935054.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1368981471s/17935054.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1368981471m/17935054.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1368981471l/17935054.jpg]]></book_large_image_url>
+    <book_description><![CDATA[„Aşa ne-a fost dat: să trăim o epocă de răscruce. Fascinantă sau derutantă, în funcţie de percepţia şi gradul de adaptabilitate ale fiecărui individ. O istorie se încheie şi o alta prinde contur. Nu este sfârşitul lumii, dar e ceva ce oarecum îi seamănă: sfârşitul unei lumi. O lume apune şi se întrevăd, ca prin ceaţă, contururile nedesluşite ale unei lumi noi.“<br /><br />„S-a întâmplat la un moment dat ceva ieşit din comun. Miracolul Occidentului. Ar fi putut să nu se întâmple? Cine poate şti? S-a ivit o civilizaţie altfel decât celelalte, care a împins omenirea pe drumul unde se află astăzi.<br />Aroganţa Occidentului a fost pe măsură. În raport cu «ceilalţi», puterea lui a atins o cotă înspăimântătoare. Ne dăm seama astăzi că a fost doar o fază a istoriei. Dar a putut să pară – atât de mare ajunsese să fie distanţa – că e un dat fundamental al unei umanităţi ierarhizate.“ (Lucian BOIA)<br /><br />Se sfârşeşte o lume • Cum merge istoria • Miracolul occidental • Un Occident tot mai mic • Autodeprecierea • Dispariţii: femeia şi rasele • Viaţa de apoi sau zece ani în plus • Naţiunile şi Europa • Impasul democratic • Un deficit de utopie • „Ceilalţi" • Accelerare sau ruptură? • Amestecul • Trei scenarii europene • China, şi iar China • Încălzirea globală şi Noul Nord • Scenarii blânde, scenarii rele • Într-un fel sau altminteri <br /><br />/ Humanitas]]></book_description>
+    <book id="17935054">
+      <num_pages>128</num_pages>
     </book>
-    <author_name>Plato</author_name>
-    <isbn>9735056569</isbn>
+    <author_name>Lucian Boia</author_name>
+    <isbn>9789735040</isbn>
     <user_name>Alexandru</user_name>
-    <user_rating>5</user_rating>
-    <user_read_at><![CDATA[Mon, 15 May 2017 00:00:00 -0700]]></user_read_at>
+    <user_rating>3</user_rating>
+    <user_read_at><![CDATA[Wed, 21 Jun 2017 00:15:10 -0700]]></user_read_at>
     <user_date_added><![CDATA[Mon, 06 Nov 2017 07:16:02 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Sun, 14 May 2017 15:37:58 -0700]]></user_date_created>
+    <user_date_created><![CDATA[Wed, 21 Jun 2017 00:14:47 -0700]]></user_date_created>
     <user_shelves>2017</user_shelves>
-    <user_review><![CDATA[Socrate admite că dacă se pricepe la ceva, atunci se pricepe la iubire. Dialogul ăsta o dovedește cu prisosință și totodată te face să depășești admirația pe care ți'o stârnește Phaidon și Phaidros și să te îndrăgostești iremediabil de Socrate, asemeni lui Alcibiade care, cerându'i'se să îl proslăvească pe Eros cum au făcut toti ceilalți participanți la banchet, preferă să îl laude chiar pe Socrate.]]></user_review>
-    <average_rating>5.00</average_rating>
-    <book_published>-385</book_published>
+    <user_review></user_review>
+    <average_rating>3.42</average_rating>
+    <book_published>2013</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/34673080-banchetul-sau-despre-iubire?utm_medium=api&amp;utm_source=rss"><img alt="Banchetul sau Despre iubire" src="https://images.gr-assets.com/books/1490333942s/34673080.jpg" /></a><br/>
-                                      author: Plato<br/>
+      <a href="https://www.goodreads.com/book/show/17935054-sf-r-itul-occidentului?utm_medium=api&amp;utm_source=rss"><img alt="Sfârșitul Occidentului?" src="https://images.gr-assets.com/books/1368981471s/17935054.jpg" /></a><br/>
+                                      author: Lucian Boia<br/>
                                       name: Alexandru<br/>
-                                      average rating: 5.00<br/>
-                                      book published: -385<br/>
-                                      rating: 5<br/>
-                                      read at: 2017/05/15<br/>
+                                      average rating: 3.42<br/>
+                                      book published: 2013<br/>
+                                      rating: 3<br/>
+                                      read at: 2017/06/21<br/>
                                       date added: 2017/11/06<br/>
                                       shelves: 2017<br/>
-                                      review: <br/>Socrate admite că dacă se pricepe la ceva, atunci se pricepe la iubire. Dialogul ăsta o dovedește cu prisosință și totodată te face să depășești admirația pe care ți'o stârnește Phaidon și Phaidros și să te îndrăgostești iremediabil de Socrate, asemeni lui Alcibiade care, cerându'i'se să îl proslăvească pe Eros cum au făcut toti ceilalți participanți la banchet, preferă să îl laude chiar pe Socrate.<br/>
+                                      review: <br/><br/>
                                       ]]>
     </description>
   </item>
@@ -1203,14 +1202,14 @@
     <user_date_created><![CDATA[Tue, 25 Apr 2017 15:20:19 -0700]]></user_date_created>
     <user_shelves>2017</user_shelves>
     <user_review><![CDATA[Quality! Excellent book, recommended for both rational and passionate readers alike. May the ghost of Robert Pirsig rest in peace.]]></user_review>
-    <average_rating>3.75</average_rating>
+    <average_rating>3.77</average_rating>
     <book_published>1974</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/826531.Zen_and_the_Art_of_Motorcycle_Maintenance?utm_medium=api&amp;utm_source=rss"><img alt="Zen and the Art of Motorcycle Maintenance" src="https://images.gr-assets.com/books/1430632039s/826531.jpg" /></a><br/>
                                       author: Robert M. Pirsig<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.75<br/>
+                                      average rating: 3.77<br/>
                                       book published: 1974<br/>
                                       rating: 5<br/>
                                       read at: 2017/05/05<br/>
@@ -1221,42 +1220,42 @@
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/1996333777?utm_medium=api&utm_source=rss]]></guid>
+    <guid><![CDATA[https://www.goodreads.com/review/show/1968558933?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Mon, 06 Nov 2017 07:16:01 -0800]]></pubDate>
-    <title>Phaidros sau Despre frumos</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/1996333777?utm_medium=api&utm_source=rss]]></link>
-    <book_id>34145413</book_id>
-    <book_image_url><![CDATA[https://images.gr-assets.com/books/1486405981s/34145413.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1486405981s/34145413.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1486405981m/34145413.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1486405981l/34145413.jpg]]></book_large_image_url>
-    <book_description><![CDATA["Despre frumos, Platon vorbeste adesea in dialogurile sale, fara ca in felul acesta sa fie vorba despre arta. Unuia dintre dialogurile sale, traditia i-a adaugat subtitlul peri tou kalou, Despre frumos. Este vorba de dialogul pe care Platon l-a botezat dupa numele tanarului interlocutor de aici, Phaidros. Insa pe parcursul traditiei, acest dialog a primit si alte subtitluri: peri psyches, Despre suflet; peri to erotos, Despre iubire. Rezulta de aici indeajuns de limpede incertitudinea care persista in privinta continutului acestui dialog. Despre toate cele enumerate, despre frumos, despre suflet si despre iubire - si nu doar in treacat - este vorba aici. Dar de asemenea, si chiar foarte amanuntit, despre techne - despre arta; insa de asemenea, si chiar foarte indeaproape, despre logos - despre vorbire si limba; insa de asemenea, si chiar in chip esential, despre aletheia - despre adevar; insa de asemenea, si chiar foarte apasat, despre mania - despre nebunie, despre delir, despre pierderea de sine; si in sfarsit, si in chip constant, despre ideai si despre Fiinta." (Gabriel Liiceanu)]]></book_description>
-    <book id="34145413">
-      <num_pages>182</num_pages>
+    <title>Frică și cutremur</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/1968558933?utm_medium=api&utm_source=rss]]></link>
+    <book_id>17317671</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1359924726s/17317671.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1359924726s/17317671.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1359924726m/17317671.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1359924726l/17317671.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Publicata in 1843 sub pseudonimul Johannes de Silentio, Frica si cutremur este expresia patetica a unui dialectician al credintei crestine. Dar dialectica lui Kierkegaard, spre deosebire de cea a lui Hegel, nu descrie mersul Spiritului absolut in istorie, ci infatiseaza devenirea complexa si paradoxala a individului uman, o devenire supusa timpului, schimbarilor bruste, indoielilor si angoaselor, disperarilor si pasiunilor, pacatului, caderilor si inaltarilor – pe scurt, misterului baroc al existentei umane. O carte despre care insusi autorul marturisea ca, dupa moarte, „singura Frica si cutremur imi va asigura nemurirea. Va fi atunci citita, si mai apoi tradusa in limbi straine. Oamenii se vor cutremura, aproape, de infricosatorul patos al cartii“.]]></book_description>
+    <book id="17317671">
+      <num_pages>248</num_pages>
     </book>
-    <author_name>Plato</author_name>
-    <isbn></isbn>
+    <author_name>Søren Kierkegaard</author_name>
+    <isbn>9735008602</isbn>
     <user_name>Alexandru</user_name>
     <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Sat, 13 May 2017 00:45:51 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Fri, 21 Apr 2017 14:39:45 -0700]]></user_read_at>
     <user_date_added><![CDATA[Mon, 06 Nov 2017 07:16:01 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Wed, 10 May 2017 07:54:38 -0700]]></user_date_created>
+    <user_date_created><![CDATA[Tue, 11 Apr 2017 09:42:26 -0700]]></user_date_created>
     <user_shelves>2017</user_shelves>
-    <user_review></user_review>
-    <average_rating>4.33</average_rating>
-    <book_published>-370</book_published>
+    <user_review><![CDATA[Credința este absurdă. Kierkegaard este fascinat de Avraam - cavalerul credinței, dar nu îl poate înțelege. Cuvântul „paradox“ se regăsește de 116 ori în această carte. Individualul se supune direct Absolutului opunându-se universalului. Asta înseamnă că datoria față de Dumnezeu transcende etica (suspendare teleologică). Orice interpretare a moralei iudeo-creștine trebuie să dea seama de versetul: „Dacă vine cineva la Mine şi nu urăşte pe tatăl său şi pe mamă şi pe femeie şi pe copii şi pe frați şi pe surori, chiar şi sufletul său însuşi, nu poate să fie ucenicul Meu.“ (Luca 14:26). ]]></user_review>
+    <average_rating>4.30</average_rating>
+    <book_published>1843</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/34145413-phaidros-sau-despre-frumos?utm_medium=api&amp;utm_source=rss"><img alt="Phaidros sau Despre frumos" src="https://images.gr-assets.com/books/1486405981s/34145413.jpg" /></a><br/>
-                                      author: Plato<br/>
+      <a href="https://www.goodreads.com/book/show/17317671-fric-i-cutremur?utm_medium=api&amp;utm_source=rss"><img alt="Frică și cutremur" src="https://images.gr-assets.com/books/1359924726s/17317671.jpg" /></a><br/>
+                                      author: Søren Kierkegaard<br/>
                                       name: Alexandru<br/>
-                                      average rating: 4.33<br/>
-                                      book published: -370<br/>
+                                      average rating: 4.30<br/>
+                                      book published: 1843<br/>
                                       rating: 4<br/>
-                                      read at: 2017/05/13<br/>
+                                      read at: 2017/04/21<br/>
                                       date added: 2017/11/06<br/>
                                       shelves: 2017<br/>
-                                      review: <br/><br/>
+                                      review: <br/>Credința este absurdă. Kierkegaard este fascinat de Avraam - cavalerul credinței, dar nu îl poate înțelege. Cuvântul „paradox“ se regăsește de 116 ori în această carte. Individualul se supune direct Absolutului opunându-se universalului. Asta înseamnă că datoria față de Dumnezeu transcende etica (suspendare teleologică). Orice interpretare a moralei iudeo-creștine trebuie să dea seama de versetul: „Dacă vine cineva la Mine şi nu urăşte pe tatăl său şi pe mamă şi pe femeie şi pe copii şi pe frați şi pe surori, chiar şi sufletul său însuşi, nu poate să fie ucenicul Meu.“ (Luca 14:26). <br/>
                                       ]]>
     </description>
   </item>
@@ -1301,42 +1300,82 @@
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/1968558933?utm_medium=api&utm_source=rss]]></guid>
+    <guid><![CDATA[https://www.goodreads.com/review/show/1996333777?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Mon, 06 Nov 2017 07:16:01 -0800]]></pubDate>
-    <title>Frică și cutremur</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/1968558933?utm_medium=api&utm_source=rss]]></link>
-    <book_id>17317671</book_id>
-    <book_image_url><![CDATA[https://images.gr-assets.com/books/1359924726s/17317671.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1359924726s/17317671.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1359924726m/17317671.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1359924726l/17317671.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Publicata in 1843 sub pseudonimul Johannes de Silentio, Frica si cutremur este expresia patetica a unui dialectician al credintei crestine. Dar dialectica lui Kierkegaard, spre deosebire de cea a lui Hegel, nu descrie mersul Spiritului absolut in istorie, ci infatiseaza devenirea complexa si paradoxala a individului uman, o devenire supusa timpului, schimbarilor bruste, indoielilor si angoaselor, disperarilor si pasiunilor, pacatului, caderilor si inaltarilor – pe scurt, misterului baroc al existentei umane. O carte despre care insusi autorul marturisea ca, dupa moarte, „singura Frica si cutremur imi va asigura nemurirea. Va fi atunci citita, si mai apoi tradusa in limbi straine. Oamenii se vor cutremura, aproape, de infricosatorul patos al cartii“.]]></book_description>
-    <book id="17317671">
-      <num_pages>248</num_pages>
+    <title>Phaidros sau Despre frumos</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/1996333777?utm_medium=api&utm_source=rss]]></link>
+    <book_id>34145413</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1486405981s/34145413.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1486405981s/34145413.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1486405981m/34145413.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1486405981l/34145413.jpg]]></book_large_image_url>
+    <book_description><![CDATA["Despre frumos, Platon vorbeste adesea in dialogurile sale, fara ca in felul acesta sa fie vorba despre arta. Unuia dintre dialogurile sale, traditia i-a adaugat subtitlul peri tou kalou, Despre frumos. Este vorba de dialogul pe care Platon l-a botezat dupa numele tanarului interlocutor de aici, Phaidros. Insa pe parcursul traditiei, acest dialog a primit si alte subtitluri: peri psyches, Despre suflet; peri to erotos, Despre iubire. Rezulta de aici indeajuns de limpede incertitudinea care persista in privinta continutului acestui dialog. Despre toate cele enumerate, despre frumos, despre suflet si despre iubire - si nu doar in treacat - este vorba aici. Dar de asemenea, si chiar foarte amanuntit, despre techne - despre arta; insa de asemenea, si chiar foarte indeaproape, despre logos - despre vorbire si limba; insa de asemenea, si chiar in chip esential, despre aletheia - despre adevar; insa de asemenea, si chiar foarte apasat, despre mania - despre nebunie, despre delir, despre pierderea de sine; si in sfarsit, si in chip constant, despre ideai si despre Fiinta." (Gabriel Liiceanu)]]></book_description>
+    <book id="34145413">
+      <num_pages>182</num_pages>
     </book>
-    <author_name>Søren Kierkegaard</author_name>
-    <isbn>9735008602</isbn>
+    <author_name>Plato</author_name>
+    <isbn></isbn>
     <user_name>Alexandru</user_name>
     <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Fri, 21 Apr 2017 14:39:45 -0700]]></user_read_at>
+    <user_read_at><![CDATA[Sat, 13 May 2017 00:45:51 -0700]]></user_read_at>
     <user_date_added><![CDATA[Mon, 06 Nov 2017 07:16:01 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 11 Apr 2017 09:42:26 -0700]]></user_date_created>
+    <user_date_created><![CDATA[Wed, 10 May 2017 07:54:38 -0700]]></user_date_created>
     <user_shelves>2017</user_shelves>
-    <user_review><![CDATA[Credința este absurdă. Kierkegaard este fascinat de Avraam - cavalerul credinței, dar nu îl poate înțelege. Cuvântul „paradox“ se regăsește de 116 ori în această carte. Individualul se supune direct Absolutului opunându-se universalului. Asta înseamnă că datoria față de Dumnezeu transcende etica (suspendare teleologică). Orice interpretare a moralei iudeo-creștine trebuie să dea seama de versetul: „Dacă vine cineva la Mine şi nu urăşte pe tatăl său şi pe mamă şi pe femeie şi pe copii şi pe frați şi pe surori, chiar şi sufletul său însuşi, nu poate să fie ucenicul Meu.“ (Luca 14:26). ]]></user_review>
-    <average_rating>4.33</average_rating>
-    <book_published>1843</book_published>
+    <user_review></user_review>
+    <average_rating>4.25</average_rating>
+    <book_published>-370</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/17317671-fric-i-cutremur?utm_medium=api&amp;utm_source=rss"><img alt="Frică și cutremur" src="https://images.gr-assets.com/books/1359924726s/17317671.jpg" /></a><br/>
-                                      author: Søren Kierkegaard<br/>
+      <a href="https://www.goodreads.com/book/show/34145413-phaidros-sau-despre-frumos?utm_medium=api&amp;utm_source=rss"><img alt="Phaidros sau Despre frumos" src="https://images.gr-assets.com/books/1486405981s/34145413.jpg" /></a><br/>
+                                      author: Plato<br/>
                                       name: Alexandru<br/>
-                                      average rating: 4.33<br/>
-                                      book published: 1843<br/>
+                                      average rating: 4.25<br/>
+                                      book published: -370<br/>
                                       rating: 4<br/>
-                                      read at: 2017/04/21<br/>
+                                      read at: 2017/05/13<br/>
                                       date added: 2017/11/06<br/>
                                       shelves: 2017<br/>
-                                      review: <br/>Credința este absurdă. Kierkegaard este fascinat de Avraam - cavalerul credinței, dar nu îl poate înțelege. Cuvântul „paradox“ se regăsește de 116 ori în această carte. Individualul se supune direct Absolutului opunându-se universalului. Asta înseamnă că datoria față de Dumnezeu transcende etica (suspendare teleologică). Orice interpretare a moralei iudeo-creștine trebuie să dea seama de versetul: „Dacă vine cineva la Mine şi nu urăşte pe tatăl său şi pe mamă şi pe femeie şi pe copii şi pe frați şi pe surori, chiar şi sufletul său însuşi, nu poate să fie ucenicul Meu.“ (Luca 14:26). <br/>
+                                      review: <br/><br/>
+                                      ]]>
+    </description>
+  </item>
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/1945996648?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Mon, 06 Nov 2017 07:16:00 -0800]]></pubDate>
+    <title>Phaidon sau Despre suflet</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/1945996648?utm_medium=api&utm_source=rss]]></link>
+    <book_id>7805489</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1267558825s/7805489.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1267558825s/7805489.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1267558825m/7805489.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1267558825l/7805489.jpg]]></book_large_image_url>
+    <book_description><![CDATA[After an interval of some months or years, and at Phlius, a town of Peloponnesus, the tale of the last hours of Socrates is narrated to Echecrates and other Phliasians by Phaedo the 'beloved disciple.' The Dialogue necessarily takes the form of a narrative, because Socrates has to be described acting as well as speaking. The minutest particulars of the event are interesting to distant friends, and the narrator has an equal interest in them. During the voyage of the sacred ship to and from Delos, which has occupied thirty days, the execution of Socrates has been deferred. (Compare Xen. Mem.) The time has been passed by him in conversation with a select company of disciples. But now the holy season is over, and the disciples meet earlier than usual in order that they may converse with Socrates for the last time. Those who were present, and those who might have been expected to be present, are mentioned by name.]]></book_description>
+    <book id="7805489">
+      <num_pages>236</num_pages>
+    </book>
+    <author_name>Plato</author_name>
+    <isbn>9735013991</isbn>
+    <user_name>Alexandru</user_name>
+    <user_rating>5</user_rating>
+    <user_read_at><![CDATA[Wed, 22 Mar 2017 00:00:00 -0700]]></user_read_at>
+    <user_date_added><![CDATA[Mon, 06 Nov 2017 07:16:00 -0800]]></user_date_added>
+    <user_date_created><![CDATA[Sun, 19 Mar 2017 02:26:39 -0700]]></user_date_created>
+    <user_shelves>2017</user_shelves>
+    <user_review><![CDATA[Socrate a fost cel mai decent martir al culturii noastre: „Cît despre mine iată, ceasul a venit și, cum ar zice un erou de tragedie, soarta mea mă cheamă. Mai e foarte puțin și trebuie să merg să îmi fac baia: cred că e mai bine ca, înainte de a bea otrava, să mă spăl, să nu mai dau femeilor de lucru cu spălarea unui leș.”<br /><br />Mi se pare că acest gest sublim se deosebește profund de ceea ce creștinii sărbătoresc miercuri și joi în Săptămâna Patimilor: spălarea cu lacrimi a picioarelor lui Isus de către femeia păcătoasă și spălarea picioarelor ucenicilor săi de către Isus ca pildă de smerenie. Isus a fost cel mai pătimaș martir al culturii noastre.<br /><br />Cât despre argumentele lui Socrate pentru nemurirea sufletului, chiar dacă sunt raționale și persuasive prin eleganța lor, nu sunt mai convingătoare decât ceea ce oferă Isus: „Căci voia Tatălui Meu este ca oricine Îl vede pe Fiul şi crede în El să aibă viaţă veşnică, iar Eu Îl voi învia în ziua de pe urmă.” (Ioan 6:40). Isus a înviat din morți. Socrate nu a murit nici o dată.]]></user_review>
+    <average_rating>4.18</average_rating>
+    <book_published>-380</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/7805489-phaidon-sau-despre-suflet?utm_medium=api&amp;utm_source=rss"><img alt="Phaidon sau Despre suflet" src="https://images.gr-assets.com/books/1267558825s/7805489.jpg" /></a><br/>
+                                      author: Plato<br/>
+                                      name: Alexandru<br/>
+                                      average rating: 4.18<br/>
+                                      book published: -380<br/>
+                                      rating: 5<br/>
+                                      read at: 2017/03/22<br/>
+                                      date added: 2017/11/06<br/>
+                                      shelves: 2017<br/>
+                                      review: <br/>Socrate a fost cel mai decent martir al culturii noastre: „Cît despre mine iată, ceasul a venit și, cum ar zice un erou de tragedie, soarta mea mă cheamă. Mai e foarte puțin și trebuie să merg să îmi fac baia: cred că e mai bine ca, înainte de a bea otrava, să mă spăl, să nu mai dau femeilor de lucru cu spălarea unui leș.”<br /><br />Mi se pare că acest gest sublim se deosebește profund de ceea ce creștinii sărbătoresc miercuri și joi în Săptămâna Patimilor: spălarea cu lacrimi a picioarelor lui Isus de către femeia păcătoasă și spălarea picioarelor ucenicilor săi de către Isus ca pildă de smerenie. Isus a fost cel mai pătimaș martir al culturii noastre.<br /><br />Cât despre argumentele lui Socrate pentru nemurirea sufletului, chiar dacă sunt raționale și persuasive prin eleganța lor, nu sunt mai convingătoare decât ceea ce oferă Isus: „Căci voia Tatălui Meu este ca oricine Îl vede pe Fiul şi crede în El să aibă viaţă veşnică, iar Eu Îl voi învia în ziua de pe urmă.” (Ioan 6:40). Isus a înviat din morți. Socrate nu a murit nici o dată.<br/>
                                       ]]>
     </description>
   </item>
@@ -1363,14 +1402,14 @@
     <user_date_created><![CDATA[Sat, 01 Apr 2017 13:13:20 -0700]]></user_date_created>
     <user_shelves>2017</user_shelves>
     <user_review><![CDATA[Rightly described as a philosophical debate, this drama actually shows the dangers of precarious philosophy. Here's the movie <a target="_blank" href="http://www.imdb.com/title/tt1510938/" rel="nofollow">http://www.imdb.com/title/tt1510938/</a>]]></user_review>
-    <average_rating>3.95</average_rating>
+    <average_rating>3.93</average_rating>
     <book_published>2006</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/6255062-the-sunset-limited?utm_medium=api&amp;utm_source=rss"><img alt="The Sunset Limited" src="https://images.gr-assets.com/books/1395925918s/6255062.jpg" /></a><br/>
                                       author: Cormac McCarthy<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.95<br/>
+                                      average rating: 3.93<br/>
                                       book published: 2006<br/>
                                       rating: 5<br/>
                                       read at: 2017/04/02<br/>
@@ -1403,60 +1442,20 @@
     <user_date_created><![CDATA[Sun, 26 Feb 2017 14:31:33 -0800]]></user_date_created>
     <user_shelves>2017</user_shelves>
     <user_review><![CDATA[This book gives us the unquestionable proof that ethics is a matter of reason. Its fascinating and surprisingly optimistic conclusions are drawn from the results of computer tournaments in which various collaboration algorithms (i.e. strategies) are compared based on their outcomes from the iterative Prisoner's Dilemma problem. Besides igniting the whole field of game theory back in the 80s, the foreword given by Richard Dawkins, as the author of The Selfish Gene, should be more than enough of a recommendation. Its importance is outstanding because it clearly proves, in a scientific fashion, that TIT FOR TAT is the most efficient strategy in non-zero-sum scenarios. So don't be envious, don't be the first to defect, reciprocate both cooperation and defection, and don't be too clever. And read this excellent book.]]></user_review>
-    <average_rating>4.21</average_rating>
+    <average_rating>4.22</average_rating>
     <book_published>1984</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/366821.The_Evolution_of_Cooperation?utm_medium=api&amp;utm_source=rss"><img alt="The Evolution of Cooperation" src="https://images.gr-assets.com/books/1388197031s/366821.jpg" /></a><br/>
                                       author: Robert Axelrod<br/>
                                       name: Alexandru<br/>
-                                      average rating: 4.21<br/>
+                                      average rating: 4.22<br/>
                                       book published: 1984<br/>
                                       rating: 5<br/>
                                       read at: 2017/03/04<br/>
                                       date added: 2017/11/06<br/>
                                       shelves: 2017<br/>
                                       review: <br/>This book gives us the unquestionable proof that ethics is a matter of reason. Its fascinating and surprisingly optimistic conclusions are drawn from the results of computer tournaments in which various collaboration algorithms (i.e. strategies) are compared based on their outcomes from the iterative Prisoner's Dilemma problem. Besides igniting the whole field of game theory back in the 80s, the foreword given by Richard Dawkins, as the author of The Selfish Gene, should be more than enough of a recommendation. Its importance is outstanding because it clearly proves, in a scientific fashion, that TIT FOR TAT is the most efficient strategy in non-zero-sum scenarios. So don't be envious, don't be the first to defect, reciprocate both cooperation and defection, and don't be too clever. And read this excellent book.<br/>
-                                      ]]>
-    </description>
-  </item>
-  <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/1941399807?utm_medium=api&utm_source=rss]]></guid>
-    <pubDate><![CDATA[Mon, 06 Nov 2017 07:16:00 -0800]]></pubDate>
-    <title>Moartea la Veneția</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/1941399807?utm_medium=api&utm_source=rss]]></link>
-    <book_id>24325809</book_id>
-    <book_image_url><![CDATA[https://images.gr-assets.com/books/1420564235s/24325809.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1420564235s/24325809.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1420564235m/24325809.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1420564235l/24325809.jpg]]></book_large_image_url>
-    <book_description><![CDATA[The world-famous masterpiece by Nobel laureate Thomas Mann -- here in a new translation by Michael Henry Heim.<br />Published on the eve of World War I, a decade after Buddenbrooks had established Thomas Mann as a literary celebrity, Death in Venice tells the story of Gustav von Aschenbach, a successful but aging writer who follows his wanderlust to Venice in search of spiritual fulfillment that instead leads to his erotic doom.<br />In the decaying city, besieged by an unnamed epidemic, he becomes obsessed with an exquisite Polish boy, Tadzio. "It is a story of the voluptuousness of doom," Mann wrote. "But the problem I had especially in mind was that of the artist's dignity."]]></book_description>
-    <book id="24325809">
-      <num_pages>176</num_pages>
-    </book>
-    <author_name>Thomas Mann</author_name>
-    <isbn>9733402214</isbn>
-    <user_name>Alexandru</user_name>
-    <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Fri, 17 Mar 2017 14:00:01 -0700]]></user_read_at>
-    <user_date_added><![CDATA[Mon, 06 Nov 2017 07:16:00 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Tue, 14 Mar 2017 06:17:44 -0700]]></user_date_created>
-    <user_shelves>2017</user_shelves>
-    <user_review></user_review>
-    <average_rating>3.56</average_rating>
-    <book_published>1912</book_published>
-    <description>
-      <![CDATA[
-      <a href="https://www.goodreads.com/book/show/24325809-moartea-la-vene-ia?utm_medium=api&amp;utm_source=rss"><img alt="Moartea la Veneția" src="https://images.gr-assets.com/books/1420564235s/24325809.jpg" /></a><br/>
-                                      author: Thomas Mann<br/>
-                                      name: Alexandru<br/>
-                                      average rating: 3.56<br/>
-                                      book published: 1912<br/>
-                                      rating: 4<br/>
-                                      read at: 2017/03/17<br/>
-                                      date added: 2017/11/06<br/>
-                                      shelves: 2017<br/>
-                                      review: <br/><br/>
                                       ]]>
     </description>
   </item>
@@ -1483,14 +1482,14 @@
     <user_date_created><![CDATA[Sat, 01 Apr 2017 12:09:01 -0700]]></user_date_created>
     <user_shelves>2017</user_shelves>
     <user_review></user_review>
-    <average_rating>3.65</average_rating>
+    <average_rating>3.73</average_rating>
     <book_published>1994</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/15849933-sex-shopping-i-un-roman?utm_medium=api&amp;utm_source=rss"><img alt="Sex, shopping și un roman" src="https://images.gr-assets.com/books/1345994536s/15849933.jpg" /></a><br/>
                                       author: Alain de Botton<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.65<br/>
+                                      average rating: 3.73<br/>
                                       book published: 1994<br/>
                                       rating: 3<br/>
                                       read at: 2017/04/08<br/>
@@ -1501,82 +1500,88 @@
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/1945996648?utm_medium=api&utm_source=rss]]></guid>
+    <guid><![CDATA[https://www.goodreads.com/review/show/1941399807?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Mon, 06 Nov 2017 07:16:00 -0800]]></pubDate>
-    <title>Phaidon sau Despre suflet</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/1945996648?utm_medium=api&utm_source=rss]]></link>
-    <book_id>7805489</book_id>
-    <book_image_url><![CDATA[https://images.gr-assets.com/books/1267558825s/7805489.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1267558825s/7805489.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1267558825m/7805489.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1267558825l/7805489.jpg]]></book_large_image_url>
-    <book_description><![CDATA[After an interval of some months or years, and at Phlius, a town of Peloponnesus, the tale of the last hours of Socrates is narrated to Echecrates and other Phliasians by Phaedo the 'beloved disciple.' The Dialogue necessarily takes the form of a narrative, because Socrates has to be described acting as well as speaking. The minutest particulars of the event are interesting to distant friends, and the narrator has an equal interest in them. During the voyage of the sacred ship to and from Delos, which has occupied thirty days, the execution of Socrates has been deferred. (Compare Xen. Mem.) The time has been passed by him in conversation with a select company of disciples. But now the holy season is over, and the disciples meet earlier than usual in order that they may converse with Socrates for the last time. Those who were present, and those who might have been expected to be present, are mentioned by name.]]></book_description>
-    <book id="7805489">
-      <num_pages>236</num_pages>
+    <title>Moartea la Veneția</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/1941399807?utm_medium=api&utm_source=rss]]></link>
+    <book_id>24325809</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1420564235s/24325809.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1420564235s/24325809.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1420564235m/24325809.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1420564235l/24325809.jpg]]></book_large_image_url>
+    <book_description><![CDATA[The world-famous masterpiece by Nobel laureate Thomas Mann -- here in a new translation by Michael Henry Heim.<br />Published on the eve of World War I, a decade after Buddenbrooks had established Thomas Mann as a literary celebrity, Death in Venice tells the story of Gustav von Aschenbach, a successful but aging writer who follows his wanderlust to Venice in search of spiritual fulfillment that instead leads to his erotic doom.<br />In the decaying city, besieged by an unnamed epidemic, he becomes obsessed with an exquisite Polish boy, Tadzio. "It is a story of the voluptuousness of doom," Mann wrote. "But the problem I had especially in mind was that of the artist's dignity."]]></book_description>
+    <book id="24325809">
+      <num_pages>176</num_pages>
     </book>
-    <author_name>Plato</author_name>
-    <isbn>9735013991</isbn>
+    <author_name>Thomas Mann</author_name>
+    <isbn>9733402214</isbn>
     <user_name>Alexandru</user_name>
-    <user_rating>5</user_rating>
-    <user_read_at><![CDATA[Wed, 22 Mar 2017 00:00:00 -0700]]></user_read_at>
+    <user_rating>4</user_rating>
+    <user_read_at><![CDATA[Fri, 17 Mar 2017 14:00:01 -0700]]></user_read_at>
     <user_date_added><![CDATA[Mon, 06 Nov 2017 07:16:00 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Sun, 19 Mar 2017 02:26:39 -0700]]></user_date_created>
+    <user_date_created><![CDATA[Tue, 14 Mar 2017 06:17:44 -0700]]></user_date_created>
     <user_shelves>2017</user_shelves>
-    <user_review><![CDATA[Socrate a fost cel mai decent martir al culturii noastre: „Cît despre mine iată, ceasul a venit și, cum ar zice un erou de tragedie, soarta mea mă cheamă. Mai e foarte puțin și trebuie să merg să îmi fac baia: cred că e mai bine ca, înainte de a bea otrava, să mă spăl, să nu mai dau femeilor de lucru cu spălarea unui leș.”<br /><br />Mi se pare că acest gest sublim se deosebește profund de ceea ce creștinii sărbătoresc miercuri și joi în Săptămâna Patimilor: spălarea cu lacrimi a picioarelor lui Isus de către femeia păcătoasă și spălarea picioarelor ucenicilor săi de către Isus ca pildă de smerenie. Isus a fost cel mai pătimaș martir al culturii noastre.<br /><br />Cât despre argumentele lui Socrate pentru nemurirea sufletului, chiar dacă sunt raționale și persuasive prin eleganța lor, nu sunt mai convingătoare decât ceea ce oferă Isus: „Căci voia Tatălui Meu este ca oricine Îl vede pe Fiul şi crede în El să aibă viaţă veşnică, iar Eu Îl voi învia în ziua de pe urmă.” (Ioan 6:40). Isus a înviat din morți. Socrate nu a murit nici o dată.]]></user_review>
-    <average_rating>4.07</average_rating>
-    <book_published>-380</book_published>
+    <user_review></user_review>
+    <average_rating>3.81</average_rating>
+    <book_published>1912</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/7805489-phaidon-sau-despre-suflet?utm_medium=api&amp;utm_source=rss"><img alt="Phaidon sau Despre suflet" src="https://images.gr-assets.com/books/1267558825s/7805489.jpg" /></a><br/>
-                                      author: Plato<br/>
+      <a href="https://www.goodreads.com/book/show/24325809-moartea-la-vene-ia?utm_medium=api&amp;utm_source=rss"><img alt="Moartea la Veneția" src="https://images.gr-assets.com/books/1420564235s/24325809.jpg" /></a><br/>
+                                      author: Thomas Mann<br/>
                                       name: Alexandru<br/>
-                                      average rating: 4.07<br/>
-                                      book published: -380<br/>
-                                      rating: 5<br/>
-                                      read at: 2017/03/22<br/>
+                                      average rating: 3.81<br/>
+                                      book published: 1912<br/>
+                                      rating: 4<br/>
+                                      read at: 2017/03/17<br/>
                                       date added: 2017/11/06<br/>
                                       shelves: 2017<br/>
-                                      review: <br/>Socrate a fost cel mai decent martir al culturii noastre: „Cît despre mine iată, ceasul a venit și, cum ar zice un erou de tragedie, soarta mea mă cheamă. Mai e foarte puțin și trebuie să merg să îmi fac baia: cred că e mai bine ca, înainte de a bea otrava, să mă spăl, să nu mai dau femeilor de lucru cu spălarea unui leș.”<br /><br />Mi se pare că acest gest sublim se deosebește profund de ceea ce creștinii sărbătoresc miercuri și joi în Săptămâna Patimilor: spălarea cu lacrimi a picioarelor lui Isus de către femeia păcătoasă și spălarea picioarelor ucenicilor săi de către Isus ca pildă de smerenie. Isus a fost cel mai pătimaș martir al culturii noastre.<br /><br />Cât despre argumentele lui Socrate pentru nemurirea sufletului, chiar dacă sunt raționale și persuasive prin eleganța lor, nu sunt mai convingătoare decât ceea ce oferă Isus: „Căci voia Tatălui Meu este ca oricine Îl vede pe Fiul şi crede în El să aibă viaţă veşnică, iar Eu Îl voi învia în ziua de pe urmă.” (Ioan 6:40). Isus a înviat din morți. Socrate nu a murit nici o dată.<br/>
+                                      review: <br/><br/>
                                       ]]>
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/1868838364?utm_medium=api&utm_source=rss]]></guid>
+    <guid><![CDATA[https://www.goodreads.com/review/show/1919199675?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Mon, 06 Nov 2017 07:15:59 -0800]]></pubDate>
-    <title>Siddhartha</title>
-    <link><![CDATA[https://www.goodreads.com/review/show/1868838364?utm_medium=api&utm_source=rss]]></link>
-    <book_id>52036</book_id>
-    <book_image_url><![CDATA[https://images.gr-assets.com/books/1428715580s/52036.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1428715580s/52036.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1428715580m/52036.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1428715580l/52036.jpg]]></book_large_image_url>
-    <book_description><![CDATA[Herman Hesse's classic novel has delighted, inspired, and influenced generations of readers, writers, and thinkers. In this story of a wealthy Indian Brahmin who casts off a life of privilege to seek spiritual fulfillment. Hesse synthesizes disparate philosophies--Eastern religions, Jungian archetypes, Western individualism--into a unique vision of life as expressed through one man's search for meaning.]]></book_description>
-    <book id="52036">
-      <num_pages>152</num_pages>
+    <title><![CDATA[The Philosophy of Andy Warhol: From A to B and Back Again]]></title>
+    <link><![CDATA[https://www.goodreads.com/review/show/1919199675?utm_medium=api&utm_source=rss]]></link>
+    <book_id>23987235</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1438781991s/23987235.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1438781991s/23987235.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1438781991m/23987235.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1438781991l/23987235.jpg]]></book_large_image_url>
+    <book_description><![CDATA[<div>
+  <p>
+    <b>A loosely formed autobiography by Andy Warhol, told with his trademark blend of irony and detachment</b>
+  </p>
+  <p> </p>
+  <p>In <i>The Philosophy of Andy Warhol</i>—which, with the subtitle "(From A to B and Back Again)," is less a memoir than a collection of riffs and reflections—he talks about love, sex, food, beauty, fame, work, money, and success; about New York, America, and his childhood in McKeesport, Pennsylvania; about his good times and bad in New York, the explosion of his career in the sixties, and his life among celebrities.</p>
+</div>]]></book_description>
+    <book id="23987235">
+      <num_pages>266</num_pages>
     </book>
-    <author_name>Hermann Hesse</author_name>
-    <isbn>0553208845</isbn>
+    <author_name>Andy Warhol</author_name>
+    <isbn></isbn>
     <user_name>Alexandru</user_name>
-    <user_rating>5</user_rating>
-    <user_read_at><![CDATA[Sat, 07 Jan 2017 13:55:44 -0800]]></user_read_at>
+    <user_rating>4</user_rating>
+    <user_read_at><![CDATA[Fri, 24 Feb 2017 12:17:53 -0800]]></user_read_at>
     <user_date_added><![CDATA[Mon, 06 Nov 2017 07:15:59 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Fri, 06 Jan 2017 12:48:00 -0800]]></user_date_created>
+    <user_date_created><![CDATA[Mon, 20 Feb 2017 05:37:48 -0800]]></user_date_created>
     <user_shelves>2017</user_shelves>
-    <user_review></user_review>
-    <average_rating>3.99</average_rating>
-    <book_published>1922</book_published>
+    <user_review><![CDATA[Pop is a mandatory qualifier not only for Andy's art but also for his philosophy. This is actually an entertaining read if you can get past the opening dialogue with B until the chapter about art near the end of the book. I've highlighted a few good lines from the chapters about love, beauty, fame and death.]]></user_review>
+    <average_rating>3.70</average_rating>
+    <book_published>1975</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/52036.Siddhartha?utm_medium=api&amp;utm_source=rss"><img alt="Siddhartha" src="https://images.gr-assets.com/books/1428715580s/52036.jpg" /></a><br/>
-                                      author: Hermann Hesse<br/>
+      <a href="https://www.goodreads.com/book/show/23987235-the-philosophy-of-andy-warhol?utm_medium=api&amp;utm_source=rss"><img alt="The Philosophy of Andy Warhol: From A to B and Back Again" src="https://images.gr-assets.com/books/1438781991s/23987235.jpg" /></a><br/>
+                                      author: Andy Warhol<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.99<br/>
-                                      book published: 1922<br/>
-                                      rating: 5<br/>
-                                      read at: 2017/01/07<br/>
+                                      average rating: 3.70<br/>
+                                      book published: 1975<br/>
+                                      rating: 4<br/>
+                                      read at: 2017/02/24<br/>
                                       date added: 2017/11/06<br/>
                                       shelves: 2017<br/>
-                                      review: <br/><br/>
+                                      review: <br/>Pop is a mandatory qualifier not only for Andy's art but also for his philosophy. This is actually an entertaining read if you can get past the opening dialogue with B until the chapter about art near the end of the book. I've highlighted a few good lines from the chapters about love, beauty, fame and death.<br/>
                                       ]]>
     </description>
   </item>
@@ -1621,48 +1626,42 @@
     </description>
   </item>
   <item>
-    <guid><![CDATA[https://www.goodreads.com/review/show/1919199675?utm_medium=api&utm_source=rss]]></guid>
+    <guid><![CDATA[https://www.goodreads.com/review/show/1868838364?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Mon, 06 Nov 2017 07:15:59 -0800]]></pubDate>
-    <title><![CDATA[The Philosophy of Andy Warhol: From A to B and Back Again]]></title>
-    <link><![CDATA[https://www.goodreads.com/review/show/1919199675?utm_medium=api&utm_source=rss]]></link>
-    <book_id>23987235</book_id>
-    <book_image_url><![CDATA[https://images.gr-assets.com/books/1438781991s/23987235.jpg]]></book_image_url>
-    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1438781991s/23987235.jpg]]></book_small_image_url>
-    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1438781991m/23987235.jpg]]></book_medium_image_url>
-    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1438781991l/23987235.jpg]]></book_large_image_url>
-    <book_description><![CDATA[<div>
-  <p>
-    <b>A loosely formed autobiography by Andy Warhol, told with his trademark blend of irony and detachment</b>
-  </p>
-  <p> </p>
-  <p>In <i>The Philosophy of Andy Warhol</i>—which, with the subtitle "(From A to B and Back Again)," is less a memoir than a collection of riffs and reflections—he talks about love, sex, food, beauty, fame, work, money, and success; about New York, America, and his childhood in McKeesport, Pennsylvania; about his good times and bad in New York, the explosion of his career in the sixties, and his life among celebrities.</p>
-</div>]]></book_description>
-    <book id="23987235">
-      <num_pages>266</num_pages>
+    <title>Siddhartha</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/1868838364?utm_medium=api&utm_source=rss]]></link>
+    <book_id>52036</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1428715580s/52036.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1428715580s/52036.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1428715580m/52036.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1428715580l/52036.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Herman Hesse's classic novel has delighted, inspired, and influenced generations of readers, writers, and thinkers. In this story of a wealthy Indian Brahmin who casts off a life of privilege to seek spiritual fulfillment. Hesse synthesizes disparate philosophies--Eastern religions, Jungian archetypes, Western individualism--into a unique vision of life as expressed through one man's search for meaning.]]></book_description>
+    <book id="52036">
+      <num_pages>152</num_pages>
     </book>
-    <author_name>Andy Warhol</author_name>
-    <isbn></isbn>
+    <author_name>Hermann Hesse</author_name>
+    <isbn>0553208845</isbn>
     <user_name>Alexandru</user_name>
-    <user_rating>4</user_rating>
-    <user_read_at><![CDATA[Fri, 24 Feb 2017 12:17:53 -0800]]></user_read_at>
+    <user_rating>5</user_rating>
+    <user_read_at><![CDATA[Sat, 07 Jan 2017 13:55:44 -0800]]></user_read_at>
     <user_date_added><![CDATA[Mon, 06 Nov 2017 07:15:59 -0800]]></user_date_added>
-    <user_date_created><![CDATA[Mon, 20 Feb 2017 05:37:48 -0800]]></user_date_created>
+    <user_date_created><![CDATA[Fri, 06 Jan 2017 12:48:00 -0800]]></user_date_created>
     <user_shelves>2017</user_shelves>
-    <user_review><![CDATA[Pop is a mandatory qualifier not only for Andy's art but also for his philosophy. This is actually an entertaining read if you can get past the opening dialogue with B until the chapter about art near the end of the book. I've highlighted a few good lines from the chapters about love, beauty, fame and death.]]></user_review>
-    <average_rating>3.76</average_rating>
-    <book_published>1975</book_published>
+    <user_review></user_review>
+    <average_rating>3.99</average_rating>
+    <book_published>1922</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/23987235-the-philosophy-of-andy-warhol?utm_medium=api&amp;utm_source=rss"><img alt="The Philosophy of Andy Warhol: From A to B and Back Again" src="https://images.gr-assets.com/books/1438781991s/23987235.jpg" /></a><br/>
-                                      author: Andy Warhol<br/>
+      <a href="https://www.goodreads.com/book/show/52036.Siddhartha?utm_medium=api&amp;utm_source=rss"><img alt="Siddhartha" src="https://images.gr-assets.com/books/1428715580s/52036.jpg" /></a><br/>
+                                      author: Hermann Hesse<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.76<br/>
-                                      book published: 1975<br/>
-                                      rating: 4<br/>
-                                      read at: 2017/02/24<br/>
+                                      average rating: 3.99<br/>
+                                      book published: 1922<br/>
+                                      rating: 5<br/>
+                                      read at: 2017/01/07<br/>
                                       date added: 2017/11/06<br/>
                                       shelves: 2017<br/>
-                                      review: <br/>Pop is a mandatory qualifier not only for Andy's art but also for his philosophy. This is actually an entertaining read if you can get past the opening dialogue with B until the chapter about art near the end of the book. I've highlighted a few good lines from the chapters about love, beauty, fame and death.<br/>
+                                      review: <br/><br/>
                                       ]]>
     </description>
   </item>
@@ -1729,14 +1728,14 @@
     <user_date_created><![CDATA[Wed, 05 Oct 2016 23:24:51 -0700]]></user_date_created>
     <user_shelves>2017</user_shelves>
     <user_review><![CDATA[A challenging walkthrough of the major themes of philosophy passing by Descartes, Locke, Leibniz, Hume, Kant and few others. It surely requires a lot of thinking to understand all the arguments put forward like, for example, why body-soul dualism implies the possibility of zombies and mutants, why (even hard) determinism doesn't justify fatalism, or why religious belief couldn't be grounded in reason. But I wouldn't say this book is an introduction to philosophy because first, it's quite heavy, and second, it barely mentions the ancient Greeks who actually introduced us to philosophy. Very good read nonetheless.]]></user_review>
-    <average_rating>3.80</average_rating>
+    <average_rating>3.79</average_rating>
     <book_published>1999</book_published>
     <description>
       <![CDATA[
       <a href="https://www.goodreads.com/book/show/1038873.Think?utm_medium=api&amp;utm_source=rss"><img alt="Think: A Compelling Introduction to Philosophy" src="https://images.gr-assets.com/books/1347291416s/1038873.jpg" /></a><br/>
                                       author: Simon Blackburn<br/>
                                       name: Alexandru<br/>
-                                      average rating: 3.80<br/>
+                                      average rating: 3.79<br/>
                                       book published: 1999<br/>
                                       rating: 4<br/>
                                       read at: 2017/01/28<br/>
@@ -1749,7 +1748,7 @@
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/1835345563?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Wed, 07 Jun 2017 06:05:46 -0700]]></pubDate>
-    <title><![CDATA[The Righteous Mind: Why Good People are Divided by Politics and Religion]]></title>
+    <title><![CDATA[The Righteous Mind: Why Good People Are Divided by Politics and Religion]]></title>
     <link><![CDATA[https://www.goodreads.com/review/show/1835345563?utm_medium=api&utm_source=rss]]></link>
     <book_id>11324722</book_id>
     <book_image_url><![CDATA[https://images.gr-assets.com/books/1351393217s/11324722.jpg]]></book_image_url>
@@ -1758,7 +1757,7 @@
     <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1351393217l/11324722.jpg]]></book_large_image_url>
     <book_description><![CDATA[This well-researched examination of human moral impulses will appeal to liberals and conservatives alike following the 2016 presidential campaign and election. <br /><br />As America descends deeper into polarization and paralysis, social psychologist Jonathan Haidt has done the seemingly impossible—challenged conventional thinking about morality, politics, and religion in a way that speaks to everyone on the political spectrum. Drawing on his twenty five years of groundbreaking research on moral psychology, he shows how moral judgments arise not from reason but from gut feelings. He shows why liberals, conservatives, and libertarians have such different intuitions about right and wrong, and he shows why each side is actually right about many of its central concerns. In this subtle yet accessible book, Haidt gives you the key to understanding the miracle of human cooperation, as well as the curse of our eternal divisions and conflicts. If you’re ready to trade in anger for understanding, read The Righteous Mind.<br /><br />A groundbreaking investigation into the origins of morality, which turns out to be the basis for religion and politics. The book is timely (explaining the American culture wars and refuting the "New Atheists"), scholarly (integrating insights from many fields) and great fun to read (like Haidt's last book, <i>The Happiness Hypothesis</i>).]]></book_description>
     <book id="11324722">
-      <num_pages>318</num_pages>
+      <num_pages>419</num_pages>
     </book>
     <author_name>Jonathan Haidt</author_name>
     <isbn>0307377903</isbn>
@@ -1773,7 +1772,7 @@
     <book_published>2012</book_published>
     <description>
       <![CDATA[
-      <a href="https://www.goodreads.com/book/show/11324722-the-righteous-mind?utm_medium=api&amp;utm_source=rss"><img alt="The Righteous Mind: Why Good People are Divided by Politics and Religion" src="https://images.gr-assets.com/books/1351393217s/11324722.jpg" /></a><br/>
+      <a href="https://www.goodreads.com/book/show/11324722-the-righteous-mind?utm_medium=api&amp;utm_source=rss"><img alt="The Righteous Mind: Why Good People Are Divided by Politics and Religion" src="https://images.gr-assets.com/books/1351393217s/11324722.jpg" /></a><br/>
                                       author: Jonathan Haidt<br/>
                                       name: Alexandru<br/>
                                       average rating: 4.15<br/>
