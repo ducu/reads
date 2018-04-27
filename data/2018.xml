@@ -9,7 +9,7 @@
     <atom:link href="https://www.goodreads.com/review/list_rss/7653898?key=jKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa&amp;shelf=2018" rel="self" type="application/rss+xml" />
     <description><![CDATA[Alexandru's bookshelf: 2018]]></description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Apr 2018 09:09:52 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 27 Apr 2018 07:09:49 -0700</lastBuildDate>
     <ttl>60</ttl>
     <image>
       <title>Alexandru's bookshelf: 2018</title>
@@ -19,6 +19,46 @@
       <url>https://www.goodreads.com/images/layout/goodreads_logo_144.jpg</url>
     </image>
     
+  <item>
+    <guid><![CDATA[https://www.goodreads.com/review/show/2372450901?utm_medium=api&utm_source=rss]]></guid>
+    <pubDate><![CDATA[Fri, 27 Apr 2018 07:09:49 -0700]]></pubDate>
+    <title>Watchbird</title>
+    <link><![CDATA[https://www.goodreads.com/review/show/2372450901?utm_medium=api&utm_source=rss]]></link>
+    <book_id>6681108</book_id>
+    <book_image_url><![CDATA[https://images.gr-assets.com/books/1328338512s/6681108.jpg]]></book_image_url>
+    <book_small_image_url><![CDATA[https://images.gr-assets.com/books/1328338512s/6681108.jpg]]></book_small_image_url>
+    <book_medium_image_url><![CDATA[https://images.gr-assets.com/books/1328338512m/6681108.jpg]]></book_medium_image_url>
+    <book_large_image_url><![CDATA[https://images.gr-assets.com/books/1328338512l/6681108.jpg]]></book_large_image_url>
+    <book_description><![CDATA[Strange how often the Millennium has been at hand. The idea is peace on Earth, see, and the way to do it is by figuring out angles.]]></book_description>
+    <book id="6681108">
+      <num_pages></num_pages>
+    </book>
+    <author_name>Robert Sheckley</author_name>
+    <isbn></isbn>
+    <user_name>Alexandru</user_name>
+    <user_rating>4</user_rating>
+    <user_read_at><![CDATA[Fri, 27 Apr 2018 07:09:49 -0700]]></user_read_at>
+    <user_date_added><![CDATA[Fri, 27 Apr 2018 07:09:49 -0700]]></user_date_added>
+    <user_date_created><![CDATA[Wed, 25 Apr 2018 04:09:04 -0700]]></user_date_created>
+    <user_shelves>2018</user_shelves>
+    <user_review><![CDATA[Nothing short of a good Black Mirror episode script, this story from 1953 shows why AI is hard. It takes more than engineers to design such machines to perform as expected. It takes philosophers.]]></user_review>
+    <average_rating>4.10</average_rating>
+    <book_published>1990</book_published>
+    <description>
+      <![CDATA[
+      <a href="https://www.goodreads.com/book/show/6681108-watchbird?utm_medium=api&amp;utm_source=rss"><img alt="Watchbird" src="https://images.gr-assets.com/books/1328338512s/6681108.jpg" /></a><br/>
+                                      author: Robert Sheckley<br/>
+                                      name: Alexandru<br/>
+                                      average rating: 4.10<br/>
+                                      book published: 1990<br/>
+                                      rating: 4<br/>
+                                      read at: 2018/04/27<br/>
+                                      date added: 2018/04/27<br/>
+                                      shelves: 2018<br/>
+                                      review: <br/>Nothing short of a good Black Mirror episode script, this story from 1953 shows why AI is hard. It takes more than engineers to design such machines to perform as expected. It takes philosophers.<br/>
+                                      ]]>
+    </description>
+  </item>
   <item>
     <guid><![CDATA[https://www.goodreads.com/review/show/2357854961?utm_medium=api&utm_source=rss]]></guid>
     <pubDate><![CDATA[Mon, 23 Apr 2018 09:09:52 -0700]]></pubDate>
