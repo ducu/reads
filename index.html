@@ -15,13 +15,16 @@
     <link rel="stylesheet" href="css/main.css">
     <title>Reads by @ducu</title>
     <script type="text/javascript">
+      function corsProxy(url) {
+        return "https://ducu-cors-proxy.herokuapp.com/" + url;
+      }
       var template = "templates/items.xsl";
       var data = {
-        // i: ["sectionId", "xmlURL", "text"]
-        0: ["currently", "data/currently.xml", "Reading"],
-        1: ["2016", "data/2016.xml", "2016"],
-        2: ["2017", "data/2017.xml", "2017"],
-        3: ["2018", "data/2018.xml", "2018"] 
+        //// i: ["sectionId", "xmlURL", "text"]
+        0: ["currently", corsProxy("https://www.goodreads.com/review/list_rss/7653898?key=jKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa&shelf=currently-reading"), "Reading"],
+        1: ["2016", corsProxy("https://www.goodreads.com/review/list_rss/7653898?key=jKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa&shelf=2016"), "2016"],
+        2: ["2017", corsProxy("https://www.goodreads.com/review/list_rss/7653898?key=jKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa&shelf=2017"), "2017"],
+        3: ["2018", corsProxy("https://www.goodreads.com/review/list_rss/7653898?key=jKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa&shelf=2018"), "2018"]
       }
     </script>
   </head>
@@ -34,7 +37,12 @@
       </a>
     </div>
 
-    <header class="header sticky-top container">
+    <div id="loading" class="text-center container mt-3">
+      <img src="img/loading.gif" alt="..." />
+      <p><small>Loading data from Goodreads</small><p>
+    </div>
+
+    <header id="header" class="sticky-top container">
       <nav id="nav">
         <ul class="nav nav-pills nav-justified">
           <li id="item-currently" class="nav-item">
@@ -53,14 +61,14 @@
       </nav>
     </header>
 
-    <div class="sections container">
+    <div id="sections" class="container">
       <div id="currently" class="section"></div>
       <div id="2018" class="section"></div>
       <div id="2017" class="section"></div>
       <div id="2016" class="section"></div>
     </div>
 
-    <footer class="footer fixed-bottom">
+    <footer id="footer" class="fixed-bottom">
     </footer>
 
     <!-- Optional JavaScript -->
@@ -71,6 +79,16 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
     <script type="text/javascript">
+      $(document).ajaxStart(function() {
+        $("#loading").show();
+      });
+
+      $(document).ajaxStop(function() {
+        $("#loading").hide();
+        $("#header").show();
+        $("#sections").show();
+      });
+
       var xmlRequests = $.map(data,
         function(a, i) { return $.get(a[1]); });
 

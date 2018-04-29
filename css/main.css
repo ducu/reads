@@ -10,7 +10,7 @@ body {
  * Header
  * --------------------------------------------------
  */
-.header {
+#header {
   /*position: fixed;*/
   z-index: 1;
   width: 100%;
@@ -24,6 +24,8 @@ body {
  * Section
  * --------------------------------------------------
 */
+#sections {
+}
 .section {
   padding-top: 75px;
 }
@@ -53,3 +55,10 @@ body {
 .author_name {
   color: #6c757d;
 }
+/*
+ * Footer
+ * --------------------------------------------------
+ */
+#footer {
+}
+
