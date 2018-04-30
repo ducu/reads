@@ -37,29 +37,29 @@
       </a>
     </div>
 
-    <div id="loading" class="text-center container mt-3">
-      <img src="img/loading.gif" alt="..." />
-      <p><small>Loading data from Goodreads</small><p>
-    </div>
-
     <header id="header" class="sticky-top container">
       <nav id="nav">
         <ul class="nav nav-pills nav-justified">
           <li id="item-currently" class="nav-item">
-            <a class="nav-link" href="#currently"></a>
+            <a class="nav-link" href="#currently">Reading</a>
           </li>
           <li id="item-2018" class="nav-item">
-            <a class="nav-link" href="#2018"></a>
+            <a class="nav-link" href="#2018">2018</a>
           </li>
           <li id="item-2017" class="nav-item">
-            <a class="nav-link" href="#2017"></a>
+            <a class="nav-link" href="#2017">2017</a>
           </li>
           <li id="item-2016" class="nav-item">
-            <a class="nav-link" href="#2016"></a>
+            <a class="nav-link" href="#2016">2016</a>
           </li>
         </ul>
       </nav>
     </header>
+
+    <div id="loading" class="text-center container mt-3">
+      <img src="img/loading.gif" alt="..." />
+      <!-- <p><small>Loading data from Goodreads</small><p> -->
+    </div>
 
     <div id="sections" class="container">
       <div id="currently" class="section"></div>
@@ -84,36 +84,34 @@
       });
 
       $(document).ajaxStop(function() {
-        $("#loading").hide();
-        $("#header").show();
-        $("#sections").show();
+        $("body").scrollspy({ target: "#nav", offset: 200 })
       });
 
-      var xmlRequests = $.map(data,
-        function(a, i) { return $.get(a[1]); });
+      $.get(template, function(xslDoc) {        
+        var xslProcessor = new XSLTProcessor();
+        xslProcessor.importStylesheet(xslDoc);
 
-      $.when.apply($, xmlRequests).done(function() {
-        var xmlResponses = arguments;
-        $.get(template, function(xslDoc) {
-          // All is ready now, so...
-          var domParser = new DOMParser();
-          var xslProcessor = new XSLTProcessor();
-          xslProcessor.importStylesheet(xslDoc);
-
-          for (var i = 0; i < xmlResponses.length; i++) {
+        var xmlRequests = $.map(data,
+          function(a, i) { return $.get(a[1]); });
+        var showData = new Array();
+        var showDataFactory = function(data, i) {
+          return function(xmlDoc) {
             var sectionId = data[i][0];
-            var xmlDoc = xmlResponses[i][0];
+            var text = data[i][2];
             var fragment = xslProcessor.transformToFragment(xmlDoc, document);
             var count = fragment.firstChild.childElementCount;
 
-            $("#" + sectionId).append(fragment);
+            $("#loading").hide(); // first time
             $("#item-" + sectionId + " a").text(
-              data[i][2] + " " + "(" + count + ")");
+              text + " " + "(" + count + ")");
+            $("#" + sectionId).append(fragment);
           }
-
-          $("body").scrollspy({ target: "#nav", offset: 200 })
-
-        });
+        }
+        
+        for (var i = 0; i < xmlRequests.length; i++) {          
+          showData[i] = showDataFactory(data, i);
+          xmlRequests[i].done(showData[i]);
+        }
       });
     </script>
   </body>
