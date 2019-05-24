@@ -93,7 +93,7 @@
 
       $(document).ajaxStop(function() {
         $("body").scrollspy({ target: "#nav", offset: 200 })
-        $("#loading").hide(); // last time
+        $("#loading").css("visibility", "hidden"); // last time
       });
 
       $.get(template, function(xslDoc) {        
