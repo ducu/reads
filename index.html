@@ -93,7 +93,6 @@
 
       $(document).ajaxStop(function() {
         $("body").scrollspy({ target: "#nav", offset: 200 })
-        $("#loading").hide(); // last time
       });
 
       $.get(template, function(xslDoc) {        
@@ -110,6 +109,7 @@
             var fragment = xslProcessor.transformToFragment(xmlDoc, document);
             var count = fragment.firstChild.childElementCount;
 
+            $("#loading").hide(); // first time
             $("#item-" + sectionId + " a").text(
               text + " " + "(" + count + ")");
             $("#" + sectionId).append(fragment);
