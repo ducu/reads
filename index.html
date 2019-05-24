@@ -63,7 +63,7 @@
       </nav>
     </header>
 
-    <div id="loading" class="text-center container mt-3">
+    <div id="loading" class="position-relative text-center">
       <img src="img/loading.gif" alt="..." />
       <!-- <p><small>Loading data from Goodreads</small><p> -->
     </div>
@@ -93,6 +93,7 @@
 
       $(document).ajaxStop(function() {
         $("body").scrollspy({ target: "#nav", offset: 200 })
+        $("#loading").css("visibility", "hidden"); // hide(); // last time
       });
 
       $.get(template, function(xslDoc) {        
@@ -109,7 +110,6 @@
             var fragment = xslProcessor.transformToFragment(xmlDoc, document);
             var count = fragment.firstChild.childElementCount;
 
-            $("#loading").hide(); // first time
             $("#item-" + sectionId + " a").text(
               text + " " + "(" + count + ")");
             $("#" + sectionId).append(fragment);
