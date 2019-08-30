@@ -5,7 +5,11 @@
 body {
   position: relative;
 }
-
+.center {
+  left: 0;
+  right: 0;
+  margin: auto;
+}
 /*
  * Header
  * --------------------------------------------------
@@ -21,11 +25,26 @@ body {
   margin: 0 auto;
   font-size: .9rem;
 }
+.nav {
+  flex-wrap: nowrap;
+}
 .nav-link {
   padding: .5rem .75rem;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
   background-color: #0056b3;
+}
+/*
+https://iamsteve.me/blog/entry/horizontal-scrolling-responsive-menu
+*/
+.scroll {
+  white-space: nowrap !important;
+  overflow-x: auto !important;
+  -webkit-overflow-scrolling: touch !important;
+  -ms-overflow-style: -ms-autohiding-scrollbar !important;
+}
+.scroll::-webkit-scrollbar {
+  display: none !important;
 }
 /*
  * Section
