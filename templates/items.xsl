@@ -35,8 +35,8 @@
       <xsl:if test="user_review != ''">
       <div class="user_review">Review: <xsl:value-of select="user_review" disable-output-escaping="yes"/></div>
       </xsl:if>
-      <div class="clearfix"/>
     </div>
+    <div class="clear"/>
     <hr/>
   </li>
 </xsl:template>
