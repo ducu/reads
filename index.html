@@ -9,10 +9,10 @@
     <meta property="og:image" content="https://ducu.github.io/reads/reads.png">
     <meta property="og:url" content="https://ducu.github.io/reads">
     <meta name="twitter:card" content="https://ducu.github.io/reads/reads.png">
-    
+
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
-    
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
@@ -30,6 +30,7 @@
         3: ["2018", corsProxy("https://www.goodreads.com/review/list_rss/7653898?key=jKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa&shelf=2018"), "2018"],
         4: ["2019", corsProxy("https://www.goodreads.com/review/list_rss/7653898?key=jKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa&shelf=2019"), "2019"],
         5: ["2020", corsProxy("https://www.goodreads.com/review/list_rss/7653898?key=jKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa&shelf=2020"), "2020"]
+        6: ["2021", corsProxy("https://www.goodreads.com/review/list_rss/7653898?key=jKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa&shelf=2021"), "2021"]
       }
     </script>
   </head>
@@ -54,6 +55,9 @@
         <ul class="nav nav-pills nav-justified">
           <li id="item-currently" class="nav-item">
             <a class="nav-link" href="#currently">Reading</a>
+          </li>
+          <li id="item-2021" class="nav-item">
+            <a class="nav-link" href="#2021">2021</a>
           </li>
           <li id="item-2020" class="nav-item">
             <a class="nav-link" href="#2020">2020</a>
@@ -81,6 +85,7 @@
 
     <div id="sections" class="container">
       <div id="currently" class="section"></div>
+      <div id="2021" class="section"></div>
       <div id="2020" class="section"></div>
       <div id="2019" class="section"></div>
       <div id="2018" class="section"></div>
@@ -108,7 +113,7 @@
         $("#loading").css("visibility", "hidden"); // hide(); // last time
       });
 
-      $.get(template, function(xslDoc) {        
+      $.get(template, function(xslDoc) {
         var xslProcessor = new XSLTProcessor();
         xslProcessor.importStylesheet(xslDoc);
 
@@ -127,8 +132,8 @@
             $("#" + sectionId).append(fragment);
           }
         }
-        
-        for (var i = 0; i < xmlRequests.length; i++) {          
+
+        for (var i = 0; i < xmlRequests.length; i++) {
           showData[i] = showDataFactory(data, i);
           xmlRequests[i].done(showData[i]);
         }
