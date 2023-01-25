@@ -92,3 +92,12 @@ https://iamsteve.me/blog/entry/horizontal-scrolling-responsive-menu
 #footer {
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #202224;
+    color: #eee;
+  }
+  #header {
+    background-color: rgba(32,34,36,0.95);
+  }
+}
