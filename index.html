@@ -19,12 +19,12 @@
     <title>Reads by @ducu</title>
     <script type="text/javascript">
       function corsProxy(url) {
-        return "https://mvuz5xxjicuwhyd6w3u6irbaga0qnprm.lambda-url.eu-central-1.on.aws/" + encodeURI(url);
+        return "https://mvuz5xxjicuwhyd6w3u6irbaga0qnprm.lambda-url.eu-central-1.on.aws/" + url;
       }
       var template = "templates/items.xsl";
       var data = {
         //// i: ["sectionId", "xmlURL", "text"]
-        0: ["currently", corsProxy("https://www.goodreads.com/review/list_rss/7653898?key=jKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa&shelf=currently-reading"), "Reading"],
+        0: ["currently", corsProxy("https%3A%2F%2Fwww.goodreads.com%2Freview%2Flist_rss%2F7653898%3Fkey%3DjKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa%26shelf%3Dcurrently-reading"), "Reading"],
         1: ["2016", "data/2016.rss", "2016"],
         2: ["2017", "data/2017.rss", "2017"],
         3: ["2018", "data/2018.rss", "2018"],
@@ -32,7 +32,7 @@
         5: ["2020", "data/2020.rss", "2020"],
         6: ["2021", "data/2021.rss", "2021"],
         7: ["2022", "data/2022.rss", "2022"],
-        8: ["2023", corsProxy("https://www.goodreads.com/review/list_rss/7653898?key=jKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa&shelf=2023"), "2023"]
+        8: ["2023", corsProxy("https%3A%2F%2Fwww.goodreads.com%2Freview%2Flist_rss%2F7653898%3Fkey%3DjKRjunRbdCP3r1O6CxQ4kJxlqobeeQw9tjQc2JtmMLqhFJBa%26shelf%3D2023"), "2023"]
       }
     </script>
   </head>
