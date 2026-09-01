@@ -85,6 +85,13 @@ https://iamsteve.me/blog/entry/horizontal-scrolling-responsive-menu
 .author_name {
   color: #6c757d;
 }
+.notice {
+  padding: 10px 15px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+  background-color: #fff3cd;
+  color: #856404;
+}
 /*
  * Footer
  * --------------------------------------------------
@@ -99,5 +106,9 @@ https://iamsteve.me/blog/entry/horizontal-scrolling-responsive-menu
   }
   #header {
     background-color: rgba(32,34,36,0.95);
+  }
+  .notice {
+    background-color: #4a3f1a;
+    color: #f0d878;
   }
 }
