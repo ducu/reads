@@ -104,6 +104,7 @@
     </div>
 
     <div id="sections" class="container">
+      <p id="notice" class="notice" style="display: none;"></p>
       <div id="currently" class="section"></div>
       <div id="2026" class="section"></div>
       <div id="2025" class="section"></div>
@@ -159,11 +160,6 @@
         }
       }
 
-      function formatDate(ts) {
-        return new Date(ts).toLocaleDateString(undefined,
-          { year: "numeric", month: "short", day: "numeric" });
-      }
-
       $.get(template, function(xslDoc) {
         var xslProcessor = new XSLTProcessor();
         xslProcessor.importStylesheet(xslDoc);
@@ -177,12 +173,29 @@
             var text = data[i][2];
             var fragment = xslProcessor.transformToFragment(xmlDoc, document);
             var count = fragment.firstChild.childElementCount;
+            var html = fragment.firstChild.outerHTML;
 
             $("#item-" + sectionId + " a").text(
               text + " " + "(" + count + ")");
             $("#" + sectionId).append(fragment);
-            saveCache(sectionId, fragment.firstChild.outerHTML, count);
+            saveCache(sectionId, html, count);
           }
+        }
+
+        var failedNoCache = [];
+        var failedWithCache = [];
+
+        var renderNotice = function() {
+          var parts = [];
+          if (failedNoCache.length) {
+            parts.push("Couldn't load data from Goodreads (" +
+              failedNoCache.join(", ") + ").");
+          }
+          if (failedWithCache.length) {
+            parts.push("Couldn't refresh from Goodreads (" + failedWithCache.join(", ") +
+              ") — showing last known data.");
+          }
+          $("#notice").text(parts.join(" ")).show();
         }
 
         var showFailFactory = function(data, i) {
@@ -194,14 +207,13 @@
             if (cached) {
               $("#item-" + sectionId + " a").text(
                 text + " " + "(" + cached.count + ")");
-              $("#" + sectionId).append(
-                '<p class="notice">Couldn\'t refresh from Goodreads &mdash; showing last known data from ' +
-                formatDate(cached.ts) + ".</p>");
               $("#" + sectionId).append(cached.html);
+              failedWithCache.push(text);
             } else {
-              $("#" + sectionId).append(
-                '<p class="notice">Couldn\'t load data from Goodreads.</p>');
+              $("#" + sectionId).hide();
+              failedNoCache.push(text);
             }
+            renderNotice();
           }
         }
 
